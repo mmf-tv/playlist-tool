@@ -55,7 +55,10 @@ DEFAULT_URLS = [
     # Fuentes Nacionales y Regionales
     "https://radiosargentina.com.ar/TVAR.m3u",
     "https://m3u.cl/lista/AR.m3u",
-    "https://ip-tv.app/m3u/Argentina_238.m3u"
+    "https://ip-tv.app/m3u/Argentina_238.m3u",
+    # Fuente Gist frantdse (Lista Vitile AR)
+    "https://gist.githubusercontent.com/frantdse/54549f7b5c641de6567103bc90cdeab3/raw/",
+    "https://gist.githubusercontent.com/frantdse/f6989518c73826ade6734c63c367af4c/raw/"
 ]
 
 DEFAULT_EPG_SOURCES = [
