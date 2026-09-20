@@ -487,35 +487,27 @@ class StreamChecker:
         try:
             with requests.Session() as session:
                 session.headers.update(self.headers)
-                response = None
-                try:
-                    response = session.head(url, allow_redirects=True, timeout=self.timeout)
-                except requests.RequestException:
-                    pass
+                session.headers["Accept-Encoding"] = "identity"
+                req_headers = {"Range": "bytes=0-2048"}
 
-                if response is None or response.status_code in [403, 404, 405, 501, 503]:
-                    partial_headers = dict(self.headers)
-                    partial_headers["Range"] = "bytes=0-1024"
-                    try:
-                        response = session.get(url, headers=partial_headers, stream=True, allow_redirects=True, timeout=self.timeout)
-                    except requests.RequestException as get_err:
-                        channel.is_alive = False
-                        channel.error_message = f"Conexión fallida: {str(get_err)}"
-                        channel.response_time = time.time() - start_time
-                        return channel
+                try:
+                    response = session.get(url, headers=req_headers, stream=True, allow_redirects=True, timeout=self.timeout)
+                except requests.RequestException as get_err:
+                    channel.is_alive = False
+                    channel.error_message = f"Conexión fallida: {str(get_err)}"
+                    channel.response_time = round(time.time() - start_time, 3)
+                    return channel
 
                 elapsed = time.time() - start_time
                 channel.response_time = round(elapsed, 3)
 
                 if response and response.status_code in [200, 206, 301, 302, 307, 308]:
-                    # Verificar si la respuesta realmente contiene contenido HLS/m3u8 válido o stream binario
                     content_chunk = b""
                     try:
-                        content_chunk = response.raw.read(1024) if hasattr(response, 'raw') and response.raw else response.content[:1024]
+                        content_chunk = response.raw.read(2048) if hasattr(response, 'raw') and response.raw else response.content[:2048]
                     except Exception:
-                        content_chunk = response.content[:1024] if hasattr(response, 'content') else b""
+                        content_chunk = response.content[:2048] if hasattr(response, 'content') else b""
 
-                    # Si es una URL de lista .m3u8/.m3u, verificar que contenga las etiquetas #EXTM3U
                     is_hls_url = ".m3u" in url.lower() or "hls" in url.lower() or "playlist" in url.lower()
                     has_extm3u = b"#EXTM3U" in content_chunk or b"#EXT-X-" in content_chunk
                     is_html_error = b"<html" in content_chunk.lower() or b"<body" in content_chunk.lower() or b"404 not found" in content_chunk.lower()
@@ -524,7 +516,7 @@ class StreamChecker:
                         channel.is_alive = False
                         channel.http_status = 404
                         channel.error_message = "Página de error HTML"
-                    elif is_hls_url and not has_extm3u and len(content_chunk) < 100:
+                    elif is_hls_url and not has_extm3u and len(content_chunk) < 50:
                         channel.is_alive = False
                         channel.http_status = 404
                         channel.error_message = "Respuesta HLS vacía/inválida"

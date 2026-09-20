@@ -93,6 +93,22 @@
       "pluto tv peliculas",
       "plex cinema"
     ],
+    "Anime": [
+      "anime",
+      "animes",
+      "manga",
+      "otaku",
+      "pluto tv anime",
+      "crunchyroll",
+      "dragon ball",
+      "pokemon",
+      "pokémon",
+      "naruto",
+      "one piece",
+      "j-pop",
+      "xtrema anime",
+      "energeek retro"
+    ],
     "Deportes": [
       "deportes",
       "sports",
@@ -145,8 +161,7 @@
       "france 24",
       "bloomberg",
       "canal 26",
-      "ip noticias",
-      "euronews"
+      "ip noticias"
     ],
     "Infantil": [
       "infantil",
@@ -170,7 +185,6 @@
       "pakapaka",
       "baby tv",
       "clan",
-      "pluto tv anime",
       "pluto tv kids",
       "pluto tv junior"
     ],
@@ -205,7 +219,6 @@
       "mtv",
       "vh1",
       "htv",
-      "cm",
       "quiero",
       "muchmusic",
       "trace",
@@ -213,41 +226,7 @@
       "stingray",
       "kiss",
       "sol musica",
-      "fm",
-      "radio",
       "pluto tv musica"
-    ],
-    "Internacional": [
-      "internacional",
-      "international",
-      "world",
-      "latam",
-      "usa",
-      "espana",
-      "españa",
-      "mexico",
-      "méxico",
-      "colombia",
-      "chile",
-      "uruguay",
-      "peru",
-      "perú",
-      "brasil",
-      "bolivia",
-      "venezuela",
-      "ecuador",
-      "paraguay",
-      ".es@",
-      ".mx@",
-      ".cl@",
-      ".co@",
-      ".pe@",
-      ".uy@",
-      ".py@",
-      ".bo@",
-      ".ve@",
-      ".ec@",
-      ".br@"
     ],
     "Argentina": [
       "argentina",
@@ -293,6 +272,112 @@
       "bahia blanca",
       "bariloche"
     ],
+    "España": [
+      "españa",
+      "espana",
+      "spain",
+      ".es@",
+      "tdtchannels",
+      "antena 3",
+      "la 1",
+      "la 2",
+      "la sexta",
+      "cuatro",
+      "telecinco",
+      "rtve",
+      "tv3",
+      "telemadrid",
+      "canal sur"
+    ],
+    "México": [
+      "méxico",
+      "mexico",
+      ".mx@",
+      "las estrellas",
+      "tv azteca",
+      "azteca uno",
+      "azteca 7",
+      "imagen televisión",
+      "canal 5 mx",
+      "canal 11",
+      "multimedios"
+    ],
+    "Chile": [
+      "chile",
+      ".cl@",
+      "chilevision",
+      "chv",
+      "mega chile",
+      "tvn",
+      "canal 13 chile",
+      "la red chile",
+      "tvmas"
+    ],
+    "Colombia": [
+      "colombia",
+      ".co@",
+      "caracol",
+      "rcn",
+      "señal colombia",
+      "citytv",
+      "teleantioquia",
+      "telecaribe"
+    ],
+    "Uruguay": [
+      "uruguay",
+      ".uy@",
+      "canal 10 uruguay",
+      "teledoce",
+      "canal 4 uruguay",
+      "tnu"
+    ],
+    "Perú": [
+      "perú",
+      "peru",
+      ".pe@",
+      "america tv peru",
+      "atv peru",
+      "latina tv",
+      "tvperu"
+    ],
+    "Paraguay": [
+      "paraguay",
+      ".py@",
+      "snt",
+      "telefuturo",
+      "trece paraguay",
+      "c9n"
+    ],
+    "Bolivia": [
+      "bolivia",
+      ".bo@",
+      "unitel",
+      "red uno",
+      "bolivision",
+      "atb"
+    ],
+    "Ecuador": [
+      "ecuador",
+      ".ec@",
+      "ecuavisa",
+      "teleamazonas",
+      "tc television"
+    ],
+    "Venezuela": [
+      "venezuela",
+      ".ve@",
+      "venevision",
+      "vtv venezuela",
+      "televen"
+    ],
+    "Internacional": [
+      "internacional",
+      "international",
+      "world",
+      "latam",
+      "usa",
+      "global"
+    ],
     "Entretenimiento": [
       "entretenimiento",
       "variedades",
@@ -308,25 +393,12 @@
       "glitz",
       "tbs",
       "trutv",
-      "las estrellas",
       "telemundo",
       "univision",
       "pluto tv",
       "plex",
       "samsung tv plus",
       "rakuten"
-    ],
-    "Religión": [
-      "religion",
-      "religión",
-      "religious",
-      "cristiano",
-      "evangelico",
-      "catolico",
-      "enlace",
-      "ewtn",
-      "maria vision",
-      "santa maria"
     ],
     "Otros": []
   }
