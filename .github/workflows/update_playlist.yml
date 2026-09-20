@@ -32,16 +32,30 @@ jobs:
         run: |
           python m3u_processor.py --output output/playlist.m3u --workers 35 --timeout 5.0
 
-      - name: Confirmar y Subir Cambios a GitHub
+      - name: Confirmar y Subir Cambios al Repositorio
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add output/ playlist.m3u lista_final_optimizada.m3u epg/ || true
+          git add output/ playlist.m3u || true
           
-          # Verificar si hay cambios antes de hacer commit
           if git diff --staged --quiet; then
-            echo "No se detectaron cambios en las listas o EPG."
+            echo "No se detectaron cambios en la lista o EPG."
           else
             git commit -m "Auto: Actualización de lista M3U y guía EPG [$(date -u +'%Y-%m-%d %H:%M:%S UTC')]"
             git push
           fi
+
+      - name: Publicar / Actualizar Release Automático
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: latest
+          name: "ArgTV Playlist & EPG (Última Actualización)"
+          body: "Archivos de lista M3U y guía EPG XMLTV actualizados automáticamente."
+          draft: false
+          prerelease: false
+          files: |
+            output/playlist.m3u
+            output/epg.xml.gz
+            output/epg.xml
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

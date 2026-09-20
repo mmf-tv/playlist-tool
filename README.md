@@ -10,11 +10,11 @@ Sistema automatizado en Python diseñado para procesar, deduplicar, validar por 
 ArgTV/
 ├── .github/
 │   └── workflows/
-│       └── update_playlist.yml    # Workflow para ejecución automática en GitHub Actions
+│       └── update_playlist.yml   # Workflow para ejecución automática y Releases
 ├── output/
 │   ├── playlist.m3u              # Lista M3U final con url-tvg integrado
 │   ├── epg.xml.gz                # Guía EPG unificada comprimida (para Kodi/TiviMate)
-│   └── epg.xml                   # Guía EPG unificada en texto plano XML
+│   └── epg.xml                   # Guía EPG unificada XML
 ├── categorias_config.json        # Reglas de mapeo a español y fuentes EPG
 ├── m3u_processor.py              # Script autónomo ejecutable
 ├── requirements.txt              # Dependencias (requests, urllib3)
@@ -34,43 +34,33 @@ ArgTV/
 
 ---
 
-## Fuentes EPG Fusionadas en `output/epg.xml.gz`
+## Enlaces Públicos Permanentes (GitHub Releases)
 
-El script descarga y unifica las guías XMLTV de:
-- **Argentina** (`AR1`)
-- **España** (`ES1` / TDT)
-- **México** (`MX1`)
-- **Chile** (`CL1`)
-- **Colombia** (`CO1`)
-- **Perú** (`PE1`)
-- **Uruguay** (`UY1`)
-- **Pluto TV** (Latam, España y Global)
-- **Plex TV**
-- **Samsung TV Plus**
-- **TDTChannels**
+Aunque el repositorio sea privado, los archivos finales se publican automáticamente en un **Release público**:
 
-> **Optimización inteligente**: El motor EPG filtra los programas y solo conserva en el archivo final los canales activos presentes en la lista, reduciendo drásticamente el tamaño del archivo y acelerando la carga en Kodi y Smart TVs.
+- 📄 **Lista M3U Pública**:
+  ```text
+  https://github.com/mmf-tv/playlist-tool/releases/download/latest/playlist.m3u
+  ```
+- 📺 **Guía EPG (XMLTV GZ) Pública**:
+  ```text
+  https://github.com/mmf-tv/playlist-tool/releases/download/latest/epg.xml.gz
+  ```
+- 📺 **Guía EPG (XMLTV XML) Pública**:
+  ```text
+  https://github.com/mmf-tv/playlist-tool/releases/download/latest/epg.xml
+  ```
 
 ---
 
-## Modos de Ejecución
+## Modos de Ejecución Local
 
-### 1. Ejecución Completa (Local o Servidor)
+### 1. Ejecución Completa
 ```bash
 python m3u_processor.py
 ```
-> Descarga las 6 listas, deduplica, valida los enlaces por HTTP, clasifica las categorías en español, fusiona todas las guías EPG y genera `output/playlist.m3u` y `output/epg.xml.gz`.
 
 ### 2. Ejecución Rápida (Sin verificación HTTP)
 ```bash
 python m3u_processor.py --skip-check
 ```
-
----
-
-## Automatización en GitHub Actions
-
-El archivo [`.github/workflows/update_playlist.yml`](file:///d:/ArgTV/.github/workflows/update_playlist.yml) está configurado para:
-- Ejecutarse automáticamente todos los días a las **04:00 UTC** (01:00 AM Argentina).
-- Permitir ejecución manual desde la pestaña **Actions** en GitHub (*workflow_dispatch*).
-- Subir los archivos generados a `output/playlist.m3u` y `output/epg.xml.gz` para que puedas usarlos desde cualquier dispositivo mediante la URL Raw de GitHub.
