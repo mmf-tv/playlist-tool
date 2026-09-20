@@ -778,13 +778,6 @@ class M3UExporter:
         with open(output_file, "w", encoding="utf-8") as f:
             f.write("\n".join(lines) + "\n")
 
-        # También crear copia en raíz playlist.m3u si la salida es en output/
-        if "output" in output_file.lower() and output_file != "playlist.m3u":
-            try:
-                shutil.copyfile(output_file, "playlist.m3u")
-            except Exception:
-                pass
-
 
 # ==============================================================================
 # MOTOR PRINCIPAL
