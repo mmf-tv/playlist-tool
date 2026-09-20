@@ -333,9 +333,15 @@ class Deduplicator:
         duplicates_count = 0
 
         for ch in channels:
+            # Upgrade de URLs conocidas con problemas de compresión GZIP o inestabilidad
+            if "eltrece" in ch.url.lower() or "eltrece" in ch.tvg_id.lower() or "el trece" in ch.name.lower():
+                if "vodgc.net" in ch.url.lower():
+                    ch.url = "https://livetrx01.vodgc.net/eltrecetv/index.m3u8"
+
             norm_url = cls.normalize_url(ch.url)
             norm_name = cls.normalize_name(ch.name)
-            tvg_id = ch.tvg_id.strip().lower()
+            raw_tvg_id = ch.tvg_id.strip().lower()
+            clean_tvg_id = re.sub(r'@[a-zA-Z0-9_-]+', '', raw_tvg_id)
 
             if norm_url in seen_urls:
                 existing = seen_urls[norm_url]
@@ -345,8 +351,8 @@ class Deduplicator:
 
             if mode == "smart":
                 key = None
-                if tvg_id and tvg_id not in ["undefined", "none", "null"]:
-                    key = f"id:{tvg_id}"
+                if clean_tvg_id and clean_tvg_id not in ["undefined", "none", "null"]:
+                    key = f"id:{clean_tvg_id}"
                 elif norm_name and len(norm_name) > 3:
                     key = f"name:{norm_name}"
 
@@ -369,10 +375,13 @@ class Deduplicator:
         # Preferir URLs HTTPS o CDNs oficiales frente a IPs crudas inseguras o inestables
         target_url_lower = target.url.lower()
         source_url_lower = source.url.lower()
-        is_target_raw_ip = re.search(r'http://\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}', target_url_lower)
-        is_source_cdn = any(domain in source_url_lower for domain in ["vodgc.net", "rudo.video", "qaotic.net", "mux.dev", "streamlock.net", "dps.live", "m3u.cl"])
+        cdn_domains = ["vodgc.net", "rudo.video", "qaotic.net", "mux.dev", "streamlock.net", "dps.live", "m3u.cl"]
+        is_target_cdn = any(domain in target_url_lower for domain in cdn_domains)
+        is_source_cdn = any(domain in source_url_lower for domain in cdn_domains)
+        is_target_raw_ip = bool(re.search(r'http://\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}', target_url_lower))
+        is_source_raw_ip = bool(re.search(r'http://\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}', source_url_lower))
 
-        if is_target_raw_ip and is_source_cdn:
+        if (not is_target_cdn and is_source_cdn) or (is_target_raw_ip and not is_source_raw_ip):
             target.url = source.url
 
         if not target.tvg_logo and source.tvg_logo:
@@ -573,6 +582,16 @@ class EPGManager:
     """
 
     @classmethod
+    def normalize_key(cls, text: str) -> str:
+        if not text:
+            return ""
+        t = re.sub(r'[\(\[]\s*(?:1080p|720p|480p|360p|4k|fhd|hd|sd|canal|tv|argentina|panregional|south)\s*[\)\]]', '', text, flags=re.IGNORECASE)
+        t = re.sub(r'\b(?:canal|tv|hd|sd|fhd)\b', '', t, flags=re.IGNORECASE)
+        t = re.sub(r'@[a-zA-Z0-9_-]+', '', t)
+        t = re.sub(r'[^\w\s]', '', t)
+        return re.sub(r'\s+', '', t).strip().lower()
+
+    @classmethod
     def merge_and_save_epg(
         cls,
         epg_sources: List[Dict[str, str]],
@@ -582,20 +601,28 @@ class EPGManager:
     ) -> Dict[str, Any]:
         print(f"\n[EPG] Fusionando guías de programación para {len(active_channels)} canales...")
 
-        # Conjunto de tvg-ids activos en nuestra lista M3U
-        active_tvg_ids: Set[str] = {
-            ch.tvg_id.strip() for ch in active_channels if ch.tvg_id and ch.tvg_id.strip()
-        }
-        active_tvg_ids_lower: Set[str] = {tid.lower() for tid in active_tvg_ids}
+        channel_norm_map: Dict[str, List[Channel]] = {}
+        for ch in active_channels:
+            keys = set()
+            if ch.tvg_id:
+                keys.add(cls.normalize_key(ch.tvg_id))
+            if ch.tvg_name:
+                keys.add(cls.normalize_key(ch.tvg_name))
+            if ch.name:
+                keys.add(cls.normalize_key(ch.name))
 
-        # Árbol XMLTV consolidado
+            for k in keys:
+                if k and len(k) >= 3:
+                    channel_norm_map.setdefault(k, []).append(ch)
+
         root_tv = ET.Element("tv")
         root_tv.set("generator-info-name", "ArgTV EPG Generator")
         root_tv.set("generator-info-url", "https://github.com/ArgTV")
 
         merged_channels_count = 0
         merged_programmes_count = 0
-        seen_channel_ids: Set[str] = set()
+        matched_xmltv_cids: Set[str] = set()
+        matched_cids_lower: Set[str] = set()
 
         for source in epg_sources:
             name = source.get("name", "Guía")
@@ -608,7 +635,6 @@ class EPGManager:
                 resp = requests.get(url, headers=DEFAULT_HEADERS, timeout=30.0, stream=True)
                 resp.raise_for_status()
 
-                # Descomprimir si es gzip
                 raw_bytes = resp.content
                 if url.endswith(".gz") or (len(raw_bytes) > 2 and raw_bytes[:2] == b'\x1f\x8b'):
                     try:
@@ -617,7 +643,6 @@ class EPGManager:
                         print(f"    [!] Error al descomprimir gzip {name}: {gz_err}")
                         continue
 
-                # Parsear XMLTV
                 try:
                     tree = ET.fromstring(raw_bytes)
                 except ET.ParseError as pe:
@@ -627,20 +652,36 @@ class EPGManager:
                 source_channels_matched = 0
                 source_programmes_matched = 0
 
-                # 1. Extraer elementos <channel>
                 for elem in tree.findall("channel"):
                     cid = elem.get("id", "").strip()
-                    if cid and (cid.lower() in active_tvg_ids_lower or not active_tvg_ids):
-                        if cid not in seen_channel_ids:
-                            seen_channel_ids.add(cid)
+                    if not cid:
+                        continue
+
+                    display_names = [d.text for d in elem.findall("display-name") if d.text]
+                    xml_keys = {cls.normalize_key(cid)}
+                    for dn in display_names:
+                        xml_keys.add(cls.normalize_key(dn))
+
+                    is_match = False
+                    for xk in xml_keys:
+                        if xk in channel_norm_map:
+                            is_match = True
+                            for target_ch in channel_norm_map[xk]:
+                                if not target_ch.tvg_id or "@" in target_ch.tvg_id or len(target_ch.tvg_id) < 3:
+                                    target_ch.tvg_id = cid
+                            break
+
+                    if is_match or not active_channels:
+                        if cid.lower() not in matched_cids_lower:
+                            matched_cids_lower.add(cid.lower())
+                            matched_xmltv_cids.add(cid)
                             root_tv.append(elem)
                             merged_channels_count += 1
                             source_channels_matched += 1
 
-                # 2. Extraer elementos <programme>
                 for elem in tree.findall("programme"):
                     prog_channel = elem.get("channel", "").strip()
-                    if prog_channel and (prog_channel.lower() in active_tvg_ids_lower or not active_tvg_ids):
+                    if prog_channel and (prog_channel in matched_xmltv_cids or prog_channel.lower() in matched_cids_lower):
                         root_tv.append(elem)
                         merged_programmes_count += 1
                         source_programmes_matched += 1
@@ -650,18 +691,15 @@ class EPGManager:
             except Exception as e:
                 print(f"    [!] Fallo al procesar {name}: {e}")
 
-        # Guardar XML unificado
         out_dir = os.path.dirname(output_xml_path) or "."
         os.makedirs(out_dir, exist_ok=True)
 
         xml_tree = ET.ElementTree(root_tv)
         try:
-            # Escribir epg.xml
             xml_tree.write(output_xml_path, encoding="utf-8", xml_declaration=True)
             xml_size_mb = round(os.path.getsize(output_xml_path) / (1024 * 1024), 2)
             print(f"✔ Guía EPG XML consolidada: '{output_xml_path}' ({xml_size_mb} MB)")
 
-            # Escribir epg.xml.gz
             with open(output_xml_path, 'rb') as f_in:
                 with gzip.open(output_gz_path, 'wb') as f_out:
                     shutil.copyfileobj(f_in, f_out)
@@ -723,9 +761,15 @@ class M3UExporter:
 
             attrs.append(f'group-title="{ch.mapped_group}"')
 
+            has_ua = False
             for k, v in ch.attributes.items():
+                if k.lower() in ["http-user-agent", "user-agent"]:
+                    has_ua = True
                 if k not in ["tvg-id", "tvg-name", "tvg-logo", "tvg-epg", "tvg-country", "tvg-language", "group-title"]:
                     attrs.append(f'{k}="{v}"')
+
+            if not has_ua:
+                attrs.append('http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"')
 
             attr_str = " " + " ".join(attrs) if attrs else ""
             extinf_line = f'#EXTINF:-1{attr_str},{ch.name}'
