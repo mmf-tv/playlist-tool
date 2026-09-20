@@ -366,6 +366,15 @@ class Deduplicator:
 
     @staticmethod
     def _merge_metadata(target: Channel, source: Channel) -> None:
+        # Preferir URLs HTTPS o CDNs oficiales frente a IPs crudas inseguras o inestables
+        target_url_lower = target.url.lower()
+        source_url_lower = source.url.lower()
+        is_target_raw_ip = re.search(r'http://\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}', target_url_lower)
+        is_source_cdn = any(domain in source_url_lower for domain in ["vodgc.net", "rudo.video", "qaotic.net", "mux.dev", "streamlock.net", "dps.live", "m3u.cl"])
+
+        if is_target_raw_ip and is_source_cdn:
+            target.url = source.url
+
         if not target.tvg_logo and source.tvg_logo:
             target.tvg_logo = source.tvg_logo
         if not target.tvg_id and source.tvg_id:
@@ -490,8 +499,30 @@ class StreamChecker:
                 channel.response_time = round(elapsed, 3)
 
                 if response and response.status_code in [200, 206, 301, 302, 307, 308]:
-                    channel.is_alive = True
-                    channel.http_status = response.status_code
+                    # Verificar si la respuesta realmente contiene contenido HLS/m3u8 válido o stream binario
+                    content_chunk = b""
+                    try:
+                        content_chunk = response.raw.read(1024) if hasattr(response, 'raw') and response.raw else response.content[:1024]
+                    except Exception:
+                        content_chunk = response.content[:1024] if hasattr(response, 'content') else b""
+
+                    # Si es una URL de lista .m3u8/.m3u, verificar que contenga las etiquetas #EXTM3U
+                    is_hls_url = ".m3u" in url.lower() or "hls" in url.lower() or "playlist" in url.lower()
+                    has_extm3u = b"#EXTM3U" in content_chunk or b"#EXT-X-" in content_chunk
+                    is_html_error = b"<html" in content_chunk.lower() or b"<body" in content_chunk.lower() or b"404 not found" in content_chunk.lower()
+
+                    if is_html_error:
+                        channel.is_alive = False
+                        channel.http_status = 404
+                        channel.error_message = "Página de error HTML"
+                    elif is_hls_url and not has_extm3u and len(content_chunk) < 100:
+                        channel.is_alive = False
+                        channel.http_status = 404
+                        channel.error_message = "Respuesta HLS vacía/inválida"
+                    else:
+                        channel.is_alive = True
+                        channel.http_status = response.status_code
+
                     try:
                         response.close()
                     except Exception:
