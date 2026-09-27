@@ -57,8 +57,7 @@ DEFAULT_URLS = [
     "https://m3u.cl/lista/AR.m3u",
     "https://ip-tv.app/m3u/Argentina_238.m3u",
     # Fuente Gist frantdse (Lista Vitile AR)
-    "https://gist.githubusercontent.com/frantdse/54549f7b5c641de6567103bc90cdeab3/raw/",
-    "https://gist.githubusercontent.com/frantdse/f6989518c73826ade6734c63c367af4c/raw/"
+    "https://gist.githubusercontent.com/frantdse/54549f7b5c641de6567103bc90cdeab3/raw/"
 ]
 
 DEFAULT_EPG_SOURCES = [
@@ -69,10 +68,21 @@ DEFAULT_EPG_SOURCES = [
     {"name": "Colombia", "url": "https://epgshare01.online/epgshare01/epg_ripper_CO1.xml.gz"},
     {"name": "Perú", "url": "https://epgshare01.online/epgshare01/epg_ripper_PE1.xml.gz"},
     {"name": "Uruguay", "url": "https://epgshare01.online/epgshare01/epg_ripper_UY1.xml.gz"},
+    {"name": "Ecuador", "url": "https://epgshare01.online/epgshare01/epg_ripper_EC1.xml.gz"},
+    {"name": "Brasil", "url": "https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz"},
+    {"name": "República Dominicana", "url": "https://epgshare01.online/epgshare01/epg_ripper_DO1.xml.gz"},
+    {"name": "Costa Rica", "url": "https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz"},
+    {"name": "Panamá", "url": "https://epgshare01.online/epgshare01/epg_ripper_PA1.xml.gz"},
+    {"name": "El Salvador", "url": "https://epgshare01.online/epgshare01/epg_ripper_SV1.xml.gz"},
+    {"name": "USA (Panregional / Cable)", "url": "https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz"},
+    {"name": "USA (Locales)", "url": "https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS1.xml.gz"},
+    {"name": "USA (Deportes)", "url": "https://epgshare01.online/epgshare01/epg_ripper_US_SPORTS1.xml.gz"},
+    {"name": "DirecTV Sports", "url": "https://epgshare01.online/epgshare01/epg_ripper_DIRECTVSPORTS1.xml.gz"},
     {"name": "Pluto TV (Latam y Global)", "url": "https://i.mjh.nz/PlutoTV/all.xml.gz"},
     {"name": "Plex TV", "url": "https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz"},
     {"name": "Samsung TV Plus", "url": "https://i.mjh.nz/SamsungTVPlus/all.xml.gz"},
-    {"name": "TDTChannels", "url": "https://www.tdtchannels.com/epg/TV.xml.gz"}
+    {"name": "TDTChannels", "url": "https://www.tdtchannels.com/epg/TV.xml.gz"},
+    {"name": "DistroTV", "url": "https://epgshare01.online/epgshare01/epg_ripper_DISTROTV1.xml.gz"}
 ]
 
 DEFAULT_CONFIG_FILE = "categorias_config.json"
@@ -577,14 +587,43 @@ class EPGManager:
     """
 
     @classmethod
-    def normalize_key(cls, text: str) -> str:
+    def get_normalized_keys(cls, text: str) -> Set[str]:
         if not text:
-            return ""
-        t = re.sub(r'[\(\[]\s*(?:1080p|720p|480p|360p|4k|fhd|hd|sd|canal|tv|argentina|panregional|south)\s*[\)\]]', '', text, flags=re.IGNORECASE)
-        t = re.sub(r'\b(?:canal|tv|hd|sd|fhd)\b', '', t, flags=re.IGNORECASE)
-        t = re.sub(r'@[a-zA-Z0-9_-]+', '', t)
-        t = re.sub(r'[^\w\s]', '', t)
-        return re.sub(r'\s+', '', t).strip().lower()
+            return set()
+
+        keys: Set[str] = set()
+        raw = text.strip()
+        keys.add(raw.lower())
+
+        no_tag = re.sub(r'@[a-zA-Z0-9_-]+', '', raw)
+        keys.add(no_tag.lower())
+
+        outside_paren = re.sub(r'[\(\[\{].*?[\)\]\}]', ' ', no_tag)
+        inside_paren = " ".join(re.findall(r'[\(\[\{](.*?)[\)\]\}]', no_tag))
+
+        for candidate in [no_tag, outside_paren, inside_paren]:
+            if not candidate:
+                continue
+            no_country = re.sub(
+                r'\.(?:ar|cl|mx|es|pe|co|uy|bo|py|ve|ec|br|us|gt|hn|ni|pa|cr|do|sv|pr)\b',
+                '', candidate, flags=re.IGNORECASE
+            )
+            no_words = re.sub(
+                r'\b(?:1080p|720p|480p|360p|4k|fhd|hd|sd|hevc|h264|h265|canal|tv|television|televisión|oficial|live|vivo|ch)\b',
+                '', no_country, flags=re.IGNORECASE
+            )
+
+            for item in [no_words, no_country, candidate]:
+                clean = re.sub(r'[^\w]', '', item).lower()
+                if len(clean) >= 3:
+                    keys.add(clean)
+
+        return {k for k in keys if len(k) >= 3}
+
+    @classmethod
+    def normalize_key(cls, text: str) -> str:
+        keys = cls.get_normalized_keys(text)
+        return next(iter(keys)) if keys else ""
 
     @classmethod
     def merge_and_save_epg(
@@ -598,13 +637,13 @@ class EPGManager:
 
         channel_norm_map: Dict[str, List[Channel]] = {}
         for ch in active_channels:
-            keys = set()
+            keys: Set[str] = set()
             if ch.tvg_id:
-                keys.add(cls.normalize_key(ch.tvg_id))
+                keys.update(cls.get_normalized_keys(ch.tvg_id))
             if ch.tvg_name:
-                keys.add(cls.normalize_key(ch.tvg_name))
+                keys.update(cls.get_normalized_keys(ch.tvg_name))
             if ch.name:
-                keys.add(cls.normalize_key(ch.name))
+                keys.update(cls.get_normalized_keys(ch.name))
 
             for k in keys:
                 if k and len(k) >= 3:
@@ -653,9 +692,9 @@ class EPGManager:
                         continue
 
                     display_names = [d.text for d in elem.findall("display-name") if d.text]
-                    xml_keys = {cls.normalize_key(cid)}
+                    xml_keys: Set[str] = cls.get_normalized_keys(cid)
                     for dn in display_names:
-                        xml_keys.add(cls.normalize_key(dn))
+                        xml_keys.update(cls.get_normalized_keys(dn))
 
                     is_match = False
                     for xk in xml_keys:

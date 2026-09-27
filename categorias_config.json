@@ -29,6 +29,46 @@
       "url": "https://epgshare01.online/epgshare01/epg_ripper_UY1.xml.gz"
     },
     {
+      "name": "Ecuador",
+      "url": "https://epgshare01.online/epgshare01/epg_ripper_EC1.xml.gz"
+    },
+    {
+      "name": "Brasil",
+      "url": "https://epgshare01.online/epgshare01/epg_ripper_BR1.xml.gz"
+    },
+    {
+      "name": "República Dominicana",
+      "url": "https://epgshare01.online/epgshare01/epg_ripper_DO1.xml.gz"
+    },
+    {
+      "name": "Costa Rica",
+      "url": "https://epgshare01.online/epgshare01/epg_ripper_CR1.xml.gz"
+    },
+    {
+      "name": "Panamá",
+      "url": "https://epgshare01.online/epgshare01/epg_ripper_PA1.xml.gz"
+    },
+    {
+      "name": "El Salvador",
+      "url": "https://epgshare01.online/epgshare01/epg_ripper_SV1.xml.gz"
+    },
+    {
+      "name": "USA (Panregional / Cable)",
+      "url": "https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz"
+    },
+    {
+      "name": "USA (Locales)",
+      "url": "https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS1.xml.gz"
+    },
+    {
+      "name": "USA (Deportes)",
+      "url": "https://epgshare01.online/epgshare01/epg_ripper_US_SPORTS1.xml.gz"
+    },
+    {
+      "name": "DirecTV Sports",
+      "url": "https://epgshare01.online/epgshare01/epg_ripper_DIRECTVSPORTS1.xml.gz"
+    },
+    {
       "name": "Pluto TV (Latam, España y Global)",
       "url": "https://i.mjh.nz/PlutoTV/all.xml.gz"
     },
@@ -43,6 +83,10 @@
     {
       "name": "TDTChannels",
       "url": "https://www.tdtchannels.com/epg/TV.xml.gz"
+    },
+    {
+      "name": "DistroTV",
+      "url": "https://epgshare01.online/epgshare01/epg_ripper_DISTROTV1.xml.gz"
     }
   ],
   "categories": {
