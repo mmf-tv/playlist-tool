@@ -27,10 +27,6 @@ https://radiosargentina.com.ar/php/artvDI.php?id=ARCRCORRI____5_5TV_______
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI999MDQ.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",99.9 Radio - 99.9 TV - Mar del Plata - BA Buenos Aires
 https://radiosargentina.com.ar/php/artvDI.php?id=ARBAMAR_D_99.9_99.9RADIO_
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIABTVBA.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",ABTV Alto Bariloche - 34 TV - SC de Bariloche - RN Rio Negro
-https://radiosargentina.com.ar/php/artvDI.php?id=ARRNSC_DE___34_ABTVALTOBA
-#EXTINF:-1 tvg-id="ABTVBariloche.ar@SD" tvg-logo="https://i.imgur.com/l4TSfDr.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",ABTV Bariloche
-https://videostream.shockmedia.com.ar/hls/abtvbariloche/abtvbariloche.m3u8
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIGESELL.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Acceso Ciudad Norte - CamTV - Villa Gesell - BA Buenos Aires
 https://radiosargentina.com.ar/php/artvDI.php?id=ARBAVILLA___CAMACCESOCIUD
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIGESELL.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Acceso RP11 Norte - CamTV - Villa Gesell - BA Buenos Aires
@@ -41,7 +37,7 @@ https://radiosargentina.com.ar/php/artvDI.php?id=ARBAVILLA___CAMAEROPUERTO
 https://radiosargentina.com.ar/php/artvDI.php?id=ARSTSANTA_91.1_AIRE______
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIAM1330.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",AM 1330 - 1330 TV - Rosario - ST Santa Fe
 https://radiosargentina.com.ar/php/artvDI.php?id=ARSTROSAR_1330_AM1330____
-#EXTINF:-1 tvg-id="AMERICA.TELEVISION.HD.(America.HD).pe" tvg-name="América TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/500px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36",America TV (720p)
+#EXTINF:-1 tvg-id="Canal.America.TV.(Argentina).ar" tvg-name="América TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png/500px-Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, como Gecko) Chrome/112.0.0.0 Mobile Safari/537.36",America TV (720p)
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIALERTN.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",AN24 TV - WebTV - CABA TV Web - CD Cd Aut Bs As
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA___WEBAN24TV____
@@ -52,6 +48,8 @@ https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CARGENTINIS
 https://stream1.sersat.com/hls/argentinisima.m3u8
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--79TV.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",ATCCO - 69CTV - San Cte del Tuyú - BA Buenos Aires
 https://radiosargentina.com.ar/php/artvDI.php?id=ARBASAN_C___69CATCCO_____
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIAURARG.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Aurora Argentina - 91.3 TV - Mendoza - ME Mendoza
+https://radiosargentina.com.ar/php/artvDI.php?id=ARMEMENDO_91.3_AURORAARGE
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIBSHARK.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Baby Shark - CTV - CABA TV Cable - CD Cd Aut Bs As
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CBABYSHARK_
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-BEATS.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Beats - 100.5 TV - Tigre - GB Gran Bs As
@@ -122,14 +120,12 @@ https://tv.streamcasthd.com:3641/live/canal2mdplive.m3u8
 https://radiosargentina.com.ar/php/artvDI.php?id=ARBAMAR_D____2_CANAL2MDP_
 #EXTINF:-1 tvg-id="Canal2Misiones.ar@SD" tvg-logo="https://i.imgur.com/YqTNXDf.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Canal 2 Misiones (1080p)
 https://nd106.republicaservers.com:4433/hls/canal2misioness/index.m3u8
-#EXTINF:-1 tvg-id="Canal2NexTVRafaela.ar@SD" tvg-logo="https://i.imgur.com/hgj3CaR.jpeg" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Canal 2 NexTV Rafaela (720p)
-https://edge.enhdtv.com/nexthd/index.m3u8
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI21POSA.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Canal 21 - 21 TV - Posadas  TV - MI Misiones
 https://radiosargentina.com.ar/php/artvDI.php?id=ARMIPOSAD___21_CANAL21___
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--C21P.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Canal 21 - 21.1TV - Pehuajó - BA Buenos Aires
-https://radiosargentina.com.ar/php/artvDI.php?id=ARBAPEHUA__21.1CANAL21___
 #EXTINF:-1 tvg-id="Canal21TV.ar@SD" tvg-logo="https://i.imgur.com/Am7yMXg.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Canal 21 TV (1080p)
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---C3T.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Canal 3 - 3CTV - Tacural - ST Santa Fe
+https://radiosargentina.com.ar/php/artvDI.php?id=ARSTTACUR____3CCANAL3____
 #EXTINF:-1 tvg-id="Canal3Formosa.ar@SD" tvg-logo="https://i.imgur.com/rVDrNIy.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Canal 3 Formosa
 https://stmvideo6.livecastv.com/agenfor/agenfor/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal3LaPampa.ar@SD" tvg-logo="https://i.imgur.com/SsNFudZ.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Canal 3 La Pampa (1080p)
@@ -138,6 +134,11 @@ https://stream.arcast.com.ar/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8
 https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---3LH.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Canal 3 Paralelo 46 - 3CTV - Las Heras - SC Santa Cruz
 https://radiosargentina.com.ar/php/artvDI.php?id=ARSCLAS_H____3CCANAL3PARA
+#EXTINF:-1 tvg-id="Canal3Pinamar.ar@SD" tvg-logo="https://i.imgur.com/IABFaH1.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Canal 3 Pinamar
+#EXTVLCOPT:http-user-agent=iPhone
+http://intelincloud01.com.ar/hls/cn3/index.m3u8
+#EXTINF:-1 tvg-id="Canal3Tacural.ar@SD" tvg-logo="https://i.imgur.com/RKvSa52.jpeg" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Canal 3 Tacural
+http://vivo.canal3tacural.com.ar:8081/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---C34.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Canal 34 - 34.1TV - San Juan  TV - SJ San Juan
 https://radiosargentina.com.ar/php/artvDI.php?id=ARSJSAN_J__34.1CANAL34___
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---4PO.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Canal 4 - 4 TV - Posadas  TV - MI Misiones
@@ -154,8 +155,6 @@ https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8
 https://5cd577a3dd8ec.streamlock.net/CANAL4/smil:CANAL4.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal4Posadas.ar@SD" tvg-logo="https://i.imgur.com/tElJr3e.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Canal 4 Posadas (1080p)
 https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal4SanJuan.ar@SD" tvg-logo="https://i.imgur.com/MsCnwRA.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Canal 4 San Juan (576p)
-https://streamlov.alsolnet.com/canal4sanjuan/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal4Teleaire.ar@SD" tvg-logo="https://i.imgur.com/XyiNvbY.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Canal 4 Teleaire
 https://stmvideo6.livecastv.com/canal4/canal4/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal4VillaDolores.ar@SD" tvg-logo="https://i.imgur.com/ZKSnGfw.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Canal 4 Villa Dolores
@@ -194,8 +193,6 @@ https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
 https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8
 #EXTINF:-1 tvg-id="Canal7TalangaVision.hn@SD" tvg-logo="https://i.ibb.co/0cqcyz4/Logo-2020-azul-El-lider-de-la-zona.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Canal 7 Talanga Vision (720p)
 https://amixtv.com:8081/talangavision/index.m3u8
-#EXTINF:-1 tvg-id="Canal.7.Televalencia.es" tvg-logo="https://i.imgur.com/ILfXDRs.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Canal 7 TeleValencia (576p)
-https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal7TV.ar@SD" tvg-logo="https://i.imgur.com/iJMH0UK.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Canal 7 TV (720p)
 https://stream.arcast.com.ar/envivo/castv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---C72.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Canal 72 - WebTV - CABA TV Web - CD Cd Aut Bs As
@@ -222,6 +219,8 @@ http://181.209.80.115:8000/play/a04h/index.m3u8
 #EXTINF:-1 tvg-id="Canal9BioBioTelevision.cl@SD" tvg-logo="https://i.imgur.com/J2G1WMs.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Canal 9 Bio-Bio Television (1080p) [Not 24/7]
 #EXTVLCOPT:http-referrer=https://www.visioncomunicaciones.com.py/
 https://unlimited6-cl.dps.live/c9/c9.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal9Cosespu.co@SD" tvg-logo="https://i.imgur.com/w5e1d8k.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Canal 9 Cosespu
+https://video2.lhdserver.es/canal9cosespu/live.m3u8
 #EXTINF:-1 tvg-id="Canal9Link.ar@SD" tvg-logo="https://audios.radiosnet.com.ar/imgwikidat/img_cuerpo/canal+9+buenos+aires9.jpg" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Canal 9 Link
 https://617c5175c970b.streamlock.net:4444/9linklivert/smil:9linkmultibr.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="0907" tvg-name="Canal 9 Multivisión" tvg-logo="https://files.catbox.moe/iqx1h4.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Canal 9 Multivisión
@@ -249,6 +248,10 @@ https://videostream.shockmedia.com.ar/hls/canaluniversidadmdp/canaluniversidadmd
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__25.6CANAL-E___
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VICAP885.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Capital - 88.5 TV - Neuquén - NQ Neuquen
 https://radiosargentina.com.ar/php/artvDI.php?id=ARNQNEUQU_88.5_CAPITAL___
+#EXTINF:-1 tvg-id="CarasTV.ar@SD" tvg-logo="https://i.imgur.com/7dl4yQY.jpeg" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Caras TV (1080p)
+https://unlimited1-us.dps.live/carastv/carastv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-CARAS.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Caras TV - WebTV - CABA TV Web - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA___WEBCARASTV___
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VICELTTV.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",CELT TV - 2CTV - Tornquist - BA Buenos Aires
 https://radiosargentina.com.ar/php/artvDI.php?id=ARBATORNQ____2CCELTTV____
 #EXTINF:-1 tvg-id="CeltaTV.ar@SD" tvg-logo="https://i.imgur.com/rwoIF4w.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Celta TV (240p)
@@ -257,17 +260,11 @@ https://vivo.solumedia.com:19360/celta/celta.m3u8
 https://radiosargentina.com.ar/php/artvDI.php?id=ARBATRES_____9_CELTATV___
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VICENTTV.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Centro TV - 8 TV - Oberá - MI Misiones
 https://radiosargentina.com.ar/php/artvDI.php?id=ARMIOBERA____8_CENTROTV__
-#EXTINF:-1 tvg-id="ChacoTV.ar" tvg-logo="https://i.imgur.com/b6RerDw.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Chaco TV (720p) [Not 24/7]
-https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VICIUDAM.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Ciudad - 91.1 TV - Merlo - GB Gran Bs As
 https://radiosargentina.com.ar/php/artvDI.php?id=ARGBMERLO_91.1_CIUDAD____
 #EXTINF:-1 tvg-id="CiudadMagica.ar@SD" tvg-logo="https://i.imgur.com/HJkSz2U.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Ciudad Magica (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 https://lbgo.bozztv.com/ssh101/ssh101/verycoolfgr/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VICIURES.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Ciudad TV - 27.1TV - Resistencia - CC Chaco
-https://radiosargentina.com.ar/php/artvDI.php?id=ARCCRESIS__27.1CIUDADTV__
-#EXTINF:-1 tvg-id="CiudadTVResistencia.ar@SD" tvg-logo="https://i.imgur.com/oL8SMTL.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Ciudad TV Resistencia (720p)
-https://617c5175c970b.streamlock.net:4444/chacodxdtv/livenew/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-CLUNA.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Claro de Luna - WebTV - Santa Fe  TV - ST Santa Fe
 https://radiosargentina.com.ar/php/artvDI.php?id=ARSTSANTA___WEBCLARODELUN
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--79TV.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Clima + Servicios - 69CTV - Mar del Plata TV - BA Buenos Aires
@@ -276,10 +273,14 @@ https://radiosargentina.com.ar/php/artvDI.php?id=ARBAMAR_D___69CCLIMA_SERV
 https://radiosargentina.com.ar/php/artvDI.php?id=ARBAPUAN____79CCLIMA_SERV
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--79TV.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Clima + Servicios - 79CTV - Villa Maza - BA Buenos Aires
 https://radiosargentina.com.ar/php/artvDI.php?id=ARBAVILLA___79CCLIMA_SERV
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VICLUBAL.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Club - 89.5 TV - Almafuerte - CO Cordoba
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCOALMAF_89.5_CLUB______
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-CN247.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",CN 24/7 - 17CTV - Neuquén - NQ Neuquen
 https://radiosargentina.com.ar/php/artvDI.php?id=ARNQNEUQU___17CCN24/7____
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VICNGOYA.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",CN Goya - 10 TV - Goya - CR Corrientes
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCRGOYA____10_CNGOYA____
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--3PIN.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",CN3 - 3 TV - Pinamar - BA Buenos Aires
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBAPINAM____3_CN3_______
 #EXTINF:-1 tvg-id="CorreaRadiovision.ar@SD" tvg-logo="https://i.imgur.com/bNCGzjf.jpeg" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Correa Radiovision
 https://stream.arcast.net:4443/correadigital/canal12/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VICORREA.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Correa Radiovision - 12CTV - Correa - ST Santa Fe
@@ -298,8 +299,6 @@ https://radiosargentina.com.ar/php/artvDI.php?id=ARMIPUERT____5_CVI_______
 https://radiosargentina.com.ar/php/artvDI.php?id=ARSTROSAR_93.5_DELPLATA__
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIDS1037.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Del Sur - 15.4TV - Veronica - BA Buenos Aires
 https://radiosargentina.com.ar/php/artvDI.php?id=ARBAVERON__15.4DELSUR____
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-DONNA.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Donna TV - 97.7 TV - Posadas - MI Misiones
-https://radiosargentina.com.ar/php/artvDI.php?id=ARMIPOSAD_97.7_DONNATV___
 #EXTINF:-1 tvg-id="EcoTV.ar@SD" tvg-logo="https://i.imgur.com/V2ldYVd.jpg" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Eco TV
 https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-ECOTV.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Eco TV - 2CTV - Tandil - BA Buenos Aires
@@ -386,11 +385,6 @@ https://vtm2.msinteractiva.com/lamil35/lamil35/playlist.m3u8
 https://radiosargentina.com.ar/php/artvDI.php?id=ARLPSANTA_____CLDMTV_____
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILINKTV.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Link TV - ITV - Esperanza - ST Santa Fe
 https://radiosargentina.com.ar/php/artvDI.php?id=ARSTESPER_____ILINKTV____
-#EXTINF:-1 tvg-id="LitusTV.ar@SD" tvg-logo="https://i.imgur.com/QIGSf4L.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Litus TV (720p) [Not 24/7]
-#EXTVLCOPT:http-referrer=https://www.lamil35.com.ar/
-https://edge.enhdtv.com/litustv/index.m3u8
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILMANTA.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Loreto Manta - 96.7 TV - Loreto - SE S del Estero
-https://radiosargentina.com.ar/php/artvDI.php?id=ARSELORET_96.7_LORETOMANT
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILRF405.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",LRF405 Universo - 89.5 TV - Cdro Rivadavia - CH Chubut
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCHCDRO__89.5_LRF405UNIV
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILRF785.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",LRF785 RMX - 105.1 TV - Ushuaia - TF T del Fuego
@@ -407,8 +401,6 @@ https://radiosargentina.com.ar/php/artvDI.php?id=ARGBTRUJU_90.1_LRI404TRUJ
 https://radiosargentina.com.ar/php/artvDI.php?id=ARGBSAN_J_89.1_LRI427UNIV
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILRI708.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",LRI708 La Villa - 91.1 TV - Villa Gesell - BA Buenos Aires
 https://radiosargentina.com.ar/php/artvDI.php?id=ARBAVILLA_91.1_LRI708LAVI
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILRI863.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",LRI863 RC - 91.1 TV - Casilda - ST Santa Fe
-https://radiosargentina.com.ar/php/artvDI.php?id=ARSTCASIL_91.1_LRI863RC__
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILRI966.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",LRI966 Cadena 103 - 103.1 TV - Olavarría - BA Buenos Aires
 https://radiosargentina.com.ar/php/artvDI.php?id=ARBAOLAVA103.1_LRI966CADE
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILRI974.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",LRI974 Mega - 90.9 TV - Azul - BA Buenos Aires
@@ -417,16 +409,12 @@ https://radiosargentina.com.ar/php/artvDI.php?id=ARBAAZUL__90.9_LRI974MEGA
 https://radiosargentina.com.ar/php/artvDI.php?id=ARMERIVAD_91.9_LRJ362AMAD
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILRJ412.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",LRJ412 Concepto - 95.7 TV - San Juan - SJ San Juan
 https://radiosargentina.com.ar/php/artvDI.php?id=ARSJSAN_J_95.7_LRJ412CONC
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILRJ518.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",LRJ518 Canal 4 - 32.2TV - San Juan  TV - SJ San Juan
-https://radiosargentina.com.ar/php/artvDI.php?id=ARSJSAN_J__32.2LRJ518CANA
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIDIALTV.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",LRJ818 Dial - 101.1 TV - San Rafael - ME Mendoza
 https://radiosargentina.com.ar/php/artvDI.php?id=ARMESAN_R101.1_LRJ818DIAL
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILRJ955.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",LRJ955 Comunicar TV - 907CTV - Colonia Caroya - CO Cordoba
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCOCOLON__907CLRJ955COMU
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILRK471.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",LRK471 Catamarca RTV - 27.1TV - SFV de Catamarca - CA Catamarca
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCASFV_D__27.1LRK471CATA
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILRK775.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",LRK775 Fiesta - 91.7 TV - San S de Jujuy - JU Jujuy
-https://radiosargentina.com.ar/php/artvDI.php?id=ARJUSAN_S_91.7_LRK775FIES
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-RCITY.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",LRK923 Radio City - 107.1 TV - San S de Jujuy - JU Jujuy
 https://radiosargentina.com.ar/php/artvDI.php?id=ARJUSAN_S107.1_LRK923RADI
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILRL318.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",LRL318 Latina - 101.1 TV - CABA FM - CD Cd Aut Bs As
@@ -439,16 +427,14 @@ https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__21.2LRL456ORBE
 https://radiosargentina.com.ar/php/artvDI.php?id=ARGBSAENZ_91.9_LRL714CLAS
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILRM378.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",LRM378 Victoria - 98.5 TV - Magdalena - BA Buenos Aires
 https://radiosargentina.com.ar/php/artvDI.php?id=ARBAMAGDA_98.5_LRM378VICT
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI----K2.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",LRM381 Estacion K2 - 96.3 TV - Necochea - BA Buenos Aires
-https://radiosargentina.com.ar/php/artvDI.php?id=ARBANECOC_96.3_LRM381ESTA
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILRM869.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",LRM869 Power Max - 104.5 TV - Recreo - ST Santa Fe
 https://radiosargentina.com.ar/php/artvDI.php?id=ARSTRECRE104.5_LRM869POWE
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILRM918.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",LRM918 Eclipse - 96.3 TV - Valle Maria - ER Entre Rios
 https://radiosargentina.com.ar/php/artvDI.php?id=ARERVALLE_96.3_LRM918ECLI
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILRN768.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",LRN768 RCM88 Ciudad - 100.3 TV - Coronel Moldes - CO Cordoba
-https://radiosargentina.com.ar/php/artvDI.php?id=ARCOCORON100.3_LRN768RCM8
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILRN893.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",LRN893 Republica - 95.5 TV - Morteros - CO Cordoba
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCOMORTE_95.5_LRN893REPU
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILRP426.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",LRP426 NEC - 98.3 TV - Necochea - BA Buenos Aires
+https://radiosargentina.com.ar/php/artvDI.php?id=ARBANECOC_98.3_LRP426NEC_
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILRP926.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",LRP926 Urban - 98.5 TV - Pehuajó - BA Buenos Aires
 https://radiosargentina.com.ar/php/artvDI.php?id=ARBAPEHUA_98.5_LRP926URBA
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIAZAHJP.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",LRR778 Azahares - 101.5 TV - Juan Pujol - CR Corrientes
@@ -479,6 +465,8 @@ https://radiosargentina.com.ar/php/artvTE.php?id=ARCOCORDO__29.1LV858TELEO
 https://radiosargentina.com.ar/php/artvDI.php?id=ARJUSAN_S__36.1LW80CANAL7
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--LW81.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",LW81 Canal 7 - 42.1TV - Stgo del Estero - SE S del Estero
 https://radiosargentina.com.ar/php/artvDI.php?id=ARSESTGO___42.1LW81CANAL7
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--LW82.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",LW82 El Once TV - 31.1TV - Salta  TV - SA Salta
+https://radiosargentina.com.ar/php/artvDI.php?id=ARSASALTA__31.1LW82ELONCE
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI--12PM.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Madryn TV - 12CTV - Puerto Madryn - CH Chubut
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCHPUERT___12CMADRYNTV__
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-MASFM.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Mas - 95.9 TV - Santa Fe - ST Santa Fe
@@ -505,6 +493,8 @@ https://radiosargentina.com.ar/php/artvDI.php?id=ARBAVILLA___CAMMUELLE____
 https://radiosargentina.com.ar/php/artvDI.php?id=ARSASALTA__35.1MULTIVISIO
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIMUNICO.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Municipal - 87.9 TV - Caleta Olivia - SC Santa Cruz
 https://radiosargentina.com.ar/php/artvDI.php?id=ARSCCALET_87.9_MUNICIPAL_
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIMUNIPL.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Municipal - 89.7 TV - Picún Leufú - NQ Neuquen
+https://radiosargentina.com.ar/php/artvDI.php?id=ARNQPICUN_89.7_MUNICIPAL_
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIMUN963.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Municipal - 96.3 TV - Mutquin - CA Catamarca
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCAMUTQU_96.3_MUNICIPAL_
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIMURKTV.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",MURKTV - 91.5 TV - Quilmes - GB Gran Bs As
@@ -565,6 +555,8 @@ https://radiosargentina.com.ar/php/artvDI.php?id=ARNQNEUQU_97.7_RADIO7____
 https://v2.tustreaming.cl/americamovil/index.m3u8
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIRDTLAN.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Radio de Todos - WebTV - Lanus - GB Gran Bs As
 https://radiosargentina.com.ar/php/artvDI.php?id=ARGBLANUS___WEBRADIODETOD
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIGALACT.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Radio Galactica - WebTV - CABA TV Web - CD Cd Aut Bs As
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA___WEBRADIOGALAC
 #EXTINF:-1 tvg-id="RadioTVNeuquen.ar@SD" tvg-logo="https://i.imgur.com/HXBLozl.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Radio TV Neuquen (720p) [Not 24/7]
 https://media.neuquen.gov.ar/rtn/television/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioUP.ar@SD" tvg-logo="https://radioup.com.ar/wp-content/uploads/2025/06/logo-radioup-footer.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Radio UP (1080p)
@@ -617,8 +609,6 @@ https://radiosargentina.com.ar/php/artvDI.php?id=ARTUCONCE___WEBSOLIVE____
 https://stmv6.voxtvhd.com.br/solivetv/solivetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VISOMOLP.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Somos La Pampa - CTV - Santa Rosa - LP La Pampa
 https://radiosargentina.com.ar/php/artvDI.php?id=ARLPSANTA_____CSOMOSLAPAM
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VISUNOTV.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Somos Uno - 26.1TV - Resistencia - CC Chaco
-https://radiosargentina.com.ar/php/artvDI.php?id=ARCCRESIS__26.1SOMOSUNO__
 #EXTINF:-1 tvg-id="T5Satelital.ar@SD" tvg-logo="https://i.imgur.com/ZcD0rUP.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",T5 Satelital
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 https://stream.t5satelital.blog/hls/t5satelitalweb.m3u8
@@ -629,6 +619,8 @@ https://radiosargentina.com.ar/php/artvDI.php?id=ARGBLANUS____5_TELECREATI
 #EXTINF:-1 tvg-id="TelefeBuenosAires.ar@SD" tvg-name="Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/960px-Telefe_%28nuevo_logo%29.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Telefe Buenos Aires (1080p)
 # General
 http://45.134.141.161:2200/ARG/TELEFE_HD/index.m3u8
+#EXTINF:-1 tvg-id="TelefeSalta.ar@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telefe_Salta_%282018%29.png/960px-Telefe_Salta_%282018%29.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Telefe Salta
+https://canal11saltatv.unpocodeawita.workers.dev/
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VITJUNIN.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",TeleJunín - 7CTV - Junín - BA Buenos Aires
 https://radiosargentina.com.ar/php/artvDI.php?id=ARBAJUNIN____7CTELEJUNIN_
 #EXTINF:-1 tvg-id="Canal.AXN.(Argentina).ar" tvg-name="Telemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/960px-Telemax_Argentina_%282018%29.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Telemax (Argentina)
@@ -676,8 +668,6 @@ https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CTVE24H____
 https://radiosargentina.com.ar/php/artvDI.php?id=ARGBMARCO_19.1_TVPMARCOSP
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIUS1033.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Un Sueńo en el Aire - 103.3 TV - Ranchos - BA Buenos Aires
 https://radiosargentina.com.ar/php/artvDI.php?id=ARBARANCH103.3_UNSUENOENE
-#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIUL1047.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Unidos en Libertad - 104.7 TV - Maipú - ME Mendoza
-https://radiosargentina.com.ar/php/artvDI.php?id=ARMEMAIPU104.7_UNIDOSENLI
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI-UNIFE.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",UNIFE - 25.1TV - CABA TV TDA - CD Cd Aut Bs As
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA__25.1UNIFE_____
 #EXTINF:-1 tvg-id="UnifeTV.ar@SD" tvg-logo="https://i.imgur.com/TLM592m.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Unife TV
@@ -712,6 +702,8 @@ https://micanal.ovh/livestreams/515.AUTOOAAZ721F.m3u8
 https://radiosargentina.com.ar/php/artvDI.php?id=ARSTFUNES__36.1VIVETV____
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---WOX.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",WOX - 88.3 TV - Rosario - ST Santa Fe
 https://radiosargentina.com.ar/php/artvDI.php?id=ARSTROSAR_88.3_WOX_______
+#EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---YCC.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Yapeyú Cable Color - 2CTV - Yapeyú - CR Corrientes
+https://radiosargentina.com.ar/php/artvDI.php?id=ARCRYAPEY____2CYAPEYUCABL
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIIGUAZU.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Yguazú - 99.9 TV - Puerto Iguazú - MI Misiones
 https://radiosargentina.com.ar/php/artvDI.php?id=ARMIPUERT_99.9_YGUAZU____
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VIZONACO.png" group-title="Argentina" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Zona - 99.7 TV - Concordia - ER Entre Rios
@@ -751,8 +743,12 @@ http://190.181.61.93:8000/play/a002/index.m3u8
 http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal.ESPN.2.(Bolivia).ar" tvg-logo="https://i.imgur.com/cECNvvr.png" group-title="Bolivia" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",RTP (Bolivia) (1080p)
 http://190.181.61.93:8000/play/a00n/index.m3u8
+#EXTINF:-1 tvg-id="SucremantaTV.bo@SD" tvg-logo="https://i.imgur.com/noN0Yhe.png" group-title="Bolivia" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Sucremanta TV (720p)
+https://lbgo.bozztv.com/ssh101/ssh101/ok2026/playlist.m3u8
 #EXTINF:-1 tvg-id="TDTMultimedia.bo@SD" tvg-logo="https://i.imgur.com/JkCywl5.png" group-title="Bolivia" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",TDT Multimedia (720p)
 https://video01.brascast.com/juan6318/juan6318/playlist.m3u8
+#EXTINF:-1 tvg-id="TELE6.bo@SD" tvg-logo="https://i.imgur.com/p7tt72X.png" group-title="Bolivia" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",TELE 6 (720p)
+https://lbgo.bozztv.com/ssh101/ssh101/tele6/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleFeBolivia.bo@SD" group-title="Bolivia" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Tele Fe Bolivia (720p)
 https://59d39900ebfb8.streamlock.net/telefehd/telefehd/playlist.m3u8
 #EXTINF:-1 tvg-id="TLEstrella.bo@SD" group-title="Bolivia" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",TL Estrella (720p)
@@ -763,8 +759,6 @@ https://castv10.plugstreaming.com:19360/redtv/redtv.m3u8
 https://edge.enhdtv.com/8214/index.m3u8
 #EXTINF:-1 tvg-id="Canal.ESPN.2.(Bolivia).ar" tvg-logo="https://i.imgur.com/B9wg1zj.png" group-title="Bolivia" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Unitel (Bolivia) (1080p)
 http://190.181.61.93:8000/play/1909/index.m3u8
-#EXTINF:-1 tvg-id="UnivalleTelevision.bo@SD" tvg-logo="https://i.imgur.com/qgrWDIs.png" group-title="Bolivia" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Univalle Television (1080p)
-https://master.tucableip.com/univalletv/playlist.m3u8
 #EXTINF:-1 tvg-id="UPEATV.bo@SD" tvg-logo="https://tvadmin.upea.bo/storage/imagenes_institucion/imagen_institucion_66cd025754fcb.png" group-title="Bolivia" http-referrer="https://tv.upea.bo/live" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",UPEA TV (720p)
 https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8
 #EXTINF:-1 tvg-id="ZuracaTV.bo@SD" tvg-logo="https://i.imgur.com/NsNytWD.jpeg" group-title="Bolivia" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Zuraca TV (720p)
@@ -787,8 +781,6 @@ https://live-evg10.tv360.bitel.com.pe/bitel/alasdeaguilaSRT/playlist.m3u8
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/921tv/921tv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AlternativaTV.cl@SD" tvg-logo="https://i.imgur.com/KCrSbgv.png" group-title="Chile" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Alternativa TV (720p)
 https://live20.bozztv.com/giatv/giatv-alternativatv/alternativatv/playlist.m3u8
-#EXTINF:-1 tvg-id="AMCanal.cl@SD" tvg-logo="https://i.imgur.com/wfi9NXL.png" group-title="Chile" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",AM Canal
-https://streaming.bitsur.cl:3534/live/vdo1102live.m3u8
 #EXTINF:-1 tvg-id="AntofagastaTV.cl@SD" tvg-logo="https://i.imgur.com/XIQr0fs.png" group-title="Chile" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Antofagasta TV (1080p)
 https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AysenTV.cl@SD" tvg-logo="https://i.imgur.com/DmdBf9S.png" group-title="Chile" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Aysen TV (720p)
@@ -825,8 +817,6 @@ https://v2.tustreaming.cl/canallocalcl/index.m3u8
 https://s1.tvdatta.com:3384/live/canal20tvlive.m3u8
 #EXTINF:-1 tvg-id="CaracolaTV.cl@SD" tvg-logo="https://i.imgur.com/QGvfqug.png" group-title="Chile" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Caracola TV
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/chunks.m3u8
-#EXTINF:-1 tvg-id="Canal.TV.Chile.ar" tvg-logo="https://cdn.m3u.cl/logo/1706_Central_TV.png" group-title="Chile" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Central TV (Chile) (720p)
-https://freya.mivideo.pro/centraltv/video.m3u8
 #EXTINF:-1 tvg-id="ChileVision.cl@SD" tvg-logo="https://i.imgur.com/PRijvR0.png" group-title="Chile" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",ChileVision (1080p)
 http://15.204.246.24:8080/CHVHD/index.m3u8
 #EXTINF:-1 tvg-id="ChinaChannel.cl@SD" tvg-logo="https://cdn.m3u.cl/logo/1769_China_Channel.png" group-title="Chile" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",China Channel (720p)
@@ -940,10 +930,6 @@ https://tv.arkeo.cl:19360/8046/8046.m3u8
 https://tv.arkeo.cl:1936/elsembrador/elsembrador/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioFantasiaTV.cl@SD" tvg-logo="https://cdn.m3u.cl/logo/389_Radio_Fantasia_TV.png" group-title="Chile" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Radio Fantasia TV (720p)
 https://v2.tustreaming.cl/fantasiatv/index.m3u8
-#EXTINF:-1 tvg-id="RadioFrecuenciaUno.cl@SD" tvg-logo="https://cdn.m3u.cl/logo/1646_Radio_Frecuencia_Uno.png" group-title="Chile" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Radio Frecuencia Uno (720p)
-https://v1.tustreaming.cl/frecuencia1tv/index.m3u8
-#EXTINF:-1 tvg-id="RadioNuble.cl@SD" tvg-logo="https://cdn.m3u.cl/logo/870_Radio_Nuble.png" group-title="Chile" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Radio Nuble (720p)
-https://tv.telselec.cl:3376/live/nublefmlive.m3u8
 #EXTINF:-1 tvg-id="RadioPanoramica.cl@SD" tvg-logo="https://cdn.m3u.cl/logo/1502_Radio_Panoramica.png" group-title="Chile" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Radio Panoramica (720p)
 https://v2.tustreaming.cl/alingeproducciones/index.m3u8
 #EXTINF:-1 tvg-id="RadioPopularTV.cl@SD" tvg-logo="https://i.imgur.com/71U0wTN.png" group-title="Chile" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Radio Popular TV
@@ -993,6 +979,8 @@ https://v4.tustreaming.cl/tendenciastv/index.m3u8
 https://v2.tustreaming.cl/tevex/index.m3u8
 #EXTINF:-1 tvg-id="ThemaTelevision.cl@SD" tvg-logo="https://www.thematelevision.cl/wp-content/uploads/2019/08/fffffffff.png" group-title="Chile" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Thema Television (720p) [Not 24/7]
 https://unlimited1-us.dps.live/thema/thema.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TNE.cl@SD" tvg-logo="https://i.imgur.com/8QbvXva.png" group-title="Chile" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",TNE (720p) [Not 24/7]
+https://v2.tustreaming.cl/tnetv/index.m3u8
 #EXTINF:-1 tvg-id="Canal.TV.Chile.ar" tvg-logo="https://i.imgur.com/oYFto0V.png" group-title="Chile" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",TV Chile (720p)
 http://168.196.127.137:6001/play/a03n/index.m3u8
 #EXTINF:-1 tvg-id="Canal.TV.Chile.ar" tvg-logo="https://i.imgur.com/CNUZ6ig.png" group-title="Chile" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",TV Senado (Chile) (360p)
@@ -1063,11 +1051,10 @@ http://190.109.2.92:8000/play/a010/index.m3u8
 https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal8TVPlus.co@SD" tvg-logo="https://i.imgur.com/peOIG1F.png" group-title="Colombia" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Canal 8 TV+ (720p)
 https://movil.ejeserver.com/live/canal8tv.m3u8
-#EXTINF:-1 tvg-id="CanalCalimaTV.co@SD" tvg-logo="https://i.imgur.com/6YxtyUR.jpeg" group-title="Colombia" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Canal Calima TV (720p)
-#EXTVLCOPT:http-referrer=https://canalc.vercel.app
-https://movil.ejeserver.com/live/calimatv.m3u8
 #EXTINF:-1 tvg-id="Canal.Capital.co" tvg-logo="https://i.imgur.com/zAYtbYi.png" group-title="Colombia" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Canal Capital (1080p)
 http://138.121.15.230:9002/CANAL-CAPITAL/index.m3u8
+#EXTINF:-1 tvg-id="CanalCHD.co@SD" tvg-logo="https://i.imgur.com/cNv1MPs.jpeg" group-title="Colombia" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Canal CHD
+https://vs20.live.opencaster.com/canalchd2025_8d99626c/index.m3u8
 #EXTINF:-1 tvg-id="CANAL.CONGRESO.co" tvg-logo="https://i.imgur.com/3VnL8dp.png" group-title="Colombia" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Canal Congreso (1080p)
 http://138.121.15.230:9002/CANAL-CONGRESO/index.m3u8
 #EXTINF:-1 tvg-id="CanalDos.co@SD" tvg-logo="https://i.imgur.com/BYsyNHZ.jpg" group-title="Colombia" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Canal Dos (720p)
@@ -1101,6 +1088,8 @@ http://138.121.15.230:9002/CARACOL/index.m3u8
 http://138.121.15.230:9002/CITY-TV/index.m3u8
 #EXTINF:-1 tvg-id="CMBTelevision.co@SD" tvg-logo="https://i.imgur.com/akGKPsk.png" group-title="Colombia" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",CMB Television (1080p)
 https://cdn1.cmbcolombia.tv/bethesda/video.m3u8
+#EXTINF:-1 tvg-id="CNCBugavision.co@SD" tvg-logo="https://i.imgur.com/zJAwnvd.png" group-title="Colombia" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",CNC Bugavision (720p)
+https://movil.ejeserver.com/live/cncbuga.m3u8
 #EXTINF:-1 tvg-id="CNCMedellin.co@HD" tvg-logo="https://i.imgur.com/J1f4fNq.png" group-title="Colombia" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",CNC Medellin (1080p)
 http://138.94.3.106:8000/play/a02o/index.m3u8
 #EXTINF:-1 tvg-id="CNCPereira.co@SD" tvg-logo="https://i.imgur.com/5vJ0aXH.png" group-title="Colombia" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",CNC Pereira (720p)
@@ -1122,14 +1111,12 @@ https://movil.ejeserver.com/live/elmundodelcampo.m3u8
 #EXTINF:-1 tvg-id="EmisoraComunitaria1041FM.co@SD" tvg-logo="https://i.imgur.com/SQ79Wsb.png" group-title="Colombia" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Emisora Comunitaria 104.1 FM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0 Win64 x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://104florencia.co/wp-admin/admin-ajax.php?action=frp_hls_proxy&url=https://streamyes.alsolnet.com/comunitariafm/live/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal.Enlace.(TBN).ar" tvg-logo="https://cdn.colombia.com/canales/enlace-television-3301.jpg" group-title="Colombia" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Enlace Television (1080p)
-http://181.78.12.119:16123/play/ch33/index.m3u8
 #EXTINF:-1 tvg-id="FrecuenciaFTV.co@SD" tvg-logo="https://i.imgur.com/Cw5k96N.png" group-title="Colombia" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Frecuencia F TV (1080p)
 https://tv.frecuenciaf.com/live/envivo_1080p4000kbs/index.m3u8
 #EXTINF:-1 tvg-id="HeliconiaRadioTV.co@SD" tvg-logo="https://i.imgur.com/AJ182BG.png" group-title="Colombia" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Heliconia Radio TV (720p)
 #EXTVLCOPT:http-referrer=https://www.heinow.com.py/
 https://eu1.servers10.com:8081/8178/index.m3u8
-#EXTINF:-1 tvg-id="Hogar.TV.us2" tvg-logo="https://i.imgur.com/zqovMhf.png" group-title="Colombia" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Hogar TV (1080p)
+#EXTINF:-1 tvg-id="Hogar.HD.us2" tvg-logo="https://i.imgur.com/zqovMhf.png" group-title="Colombia" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Hogar TV (1080p)
 http://190.61.47.54:8000/play/a01n/index.m3u8
 #EXTINF:-1 tvg-id="KaluTV.co@SD" tvg-logo="https://i.imgur.com/MO4w3OT.jpeg" group-title="Colombia" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Kalu TV (1080p)
 https://tv.kaludecolombia.com/memfs/d71c0104-4752-4690-bdbf-19aa849da6c4.m3u8
@@ -1142,6 +1129,8 @@ https://sistemastr.tropicalmoonmedia.com/live/2C7CA6CECC9B8F8C3A07315FDA110936/2
 http://45.173.231.22:8000/play/a0cr/index.m3u8
 #EXTINF:-1 tvg-id="OasisTV.co@SD" tvg-logo="https://i.imgur.com/VKYzFpZ.png" group-title="Colombia" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Oasis TV (Colombia) (720p) [Not 24/7]
 https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8
+#EXTINF:-1 tvg-id="PancheTelevision.co@SD" tvg-logo="https://i.imgur.com/BJVlOVA.jpeg" group-title="Colombia" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Panche Television
+https://vs20.live.opencaster.com/panche_3c70d368/index.m3u8
 #EXTINF:-1 tvg-id="RCN.HDTV.2.(RCNHD2).co" tvg-logo="https://i.imgur.com/SrMPTfc.png" group-title="Colombia" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",RCN HD2 (1080p)
 http://181.78.14.26:4000/play/a07m/index.m3u8
 #EXTINF:-1 tvg-id="RCNMas.co@SD" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="Colombia" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",RCN Mas (1080p)
@@ -1150,6 +1139,8 @@ https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
 https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8
 #EXTINF:-1 tvg-id="SantelTV.co@SD" tvg-logo="https://i.imgur.com/jmJx0jo.png" group-title="Colombia" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Santel TV
 https://tv3.bitstreaming.net:3540/live/santeltvlive.m3u8
+#EXTINF:-1 tvg-id="SoonaTV.co@SD" tvg-logo="https://i.imgur.com/Pk8zzTL.jpeg" group-title="Colombia" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Soona TV
+https://vs20.live.opencaster.com/soonatv_a1a564a9/index.m3u8
 #EXTINF:-1 tvg-id="StreamForce360.co@Main" tvg-logo="https://streamforce360.com/wp-content/uploads/2026/06/logo-streamforce-30-20026-e1782248482848.png" group-title="Colombia" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",StreamForce 360 (1080p)
 https://sistemastr.tropicalmoonmedia.com:443/live/9E495C5FDA503D7F71037F2D2C5D3FA3/16.m3u8
 #EXTINF:-1 tvg-id="SuramTV.co@SD" tvg-logo="https://i.imgur.com/2N9LCES.png" group-title="Colombia" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Suram TV (720p)
@@ -1230,7 +1221,7 @@ https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbX
 http://138.59.227.20:8000/play/a085/index.m3u8
 #EXTINF:-1 tvg-id="Canal.ESPN.2.(Bolivia).ar" tvg-logo="https://i.imgur.com/YOr1Oac.png" group-title="Deportes" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",FTV (Bolivia) (720p)
 https://master.tucableip.com/ftvhd/index.m3u8
-#EXTINF:-1 tvg-id="Canal.FUTV.sv" tvg-logo="https://i.imgur.com/f8BkLql.png" group-title="Deportes" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",FUTV
+#EXTINF:-1 tvg-id="FUTV.(Costa.Rica).cr" tvg-logo="https://i.imgur.com/f8BkLql.png" group-title="Deportes" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",FUTV
 http://190.61.90.17:40000/play/a03v/index.m3u8
 #EXTINF:-1 tvg-id="GolfChannelLatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Golf_Channel_Logo_2018.png/960px-Golf_Channel_Logo_2018.png" group-title="Deportes" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Golf Channel Latin America (1080p)
 http://15.204.246.24:8080/GolfChannelHD/index.m3u8
@@ -1258,10 +1249,12 @@ https://886bd3fbc782459f8de7555d32d7e9ce.mediatailor.us-west-2.amazonaws.com/v1/
 https://live-evg8.tv360.bitel.com.pe/bitel/studiotvhuanta/playlist.m3u8
 #EXTINF:-1 tvg-id="TeletrakTV.cl@SD" tvg-logo="https://i.imgur.com/NoJvlig.png" group-title="Deportes" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Teletrak TV (720p)
 https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal.5.El.Líder.(Honduras).sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" group-title="Deportes" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Tigo Sports (Honduras) (1080p)
+#EXTINF:-1 tvg-id="Tigo.Sports.(Coasta.Rica).cr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" group-title="Deportes" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Tigo Sports (Honduras) (1080p)
 http://168.196.127.137:6001/play/a0ay/index.m3u8
-#EXTINF:-1 tvg-id="Canal.La.Tele.(Paraguay).ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" group-title="Deportes" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Tigo Sports (Paraguay)
+#EXTINF:-1 tvg-id="Canal.SNT.(Paraguay).ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tigo_Sports_2025.png/960px-Tigo_Sports_2025.png" group-title="Deportes" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Tigo Sports (Paraguay)
 http://45.134.141.161:2200/ARG/Tigo_Sports/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TourSpotTV.do@HD" tvg-logo="https://imgur.com/khj869k.png" group-title="Deportes" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Tour Spot TV (1280p) [Not 24/7]
+https://fox.hostlagarto.com:8081/toursporttv/playlist.m3u8
 #EXTINF:-1 tvg-id="TurfMovil.cl@SD" tvg-logo="https://i.imgur.com/TwIe4lK.png" group-title="Deportes" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Turf Movil (720p)
 https://tvturf4.janus.cl/playlist/stream.m3u8?d=w&id=
 #EXTINF:-1 tvg-id="Canal.TyC.Sports.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png" group-title="Deportes" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",TyC Sports (1080p)
@@ -1272,8 +1265,6 @@ https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CTYCSPORTS_
 http://45.170.130.224:8000/play/a020/index.m3u8
 #EXTINF:-1 tvg-id="Win.Sports.co" tvg-logo="https://i.imgur.com/DuSSrHV.png" group-title="Deportes" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Win Sports (1080p)
 http://138.121.15.230:9002/WIN-SPORT/index.m3u8
-#EXTINF:-1 tvg-id="WinPlusFutbol.co@SD" tvg-logo="https://i.imgur.com/0UN87vB.png" group-title="Deportes" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Win+ Futbol (1080p)
-http://181.78.12.119:16123/play/ch19/index.m3u8
 #EXTINF:-1 tvg-id="13C.cl@SD" tvg-logo="https://i.imgur.com/Zfe2f5j.png" group-title="Documentales" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",13C (1080p)
 #EXTVLCOPT:http-referrer=https://player.streamingconnect.com/
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
@@ -1297,8 +1288,6 @@ https://video.cdmx.gob.mx/redes/stream.m3u8
 https://v2.tustreaming.cl/chilechannel/index.m3u8
 #EXTINF:-1 tvg-id="CiracuTV.ec@SD" tvg-logo="https://i.imgur.com/mkf2TJ6.png" group-title="Documentales" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Ciracu TV (720p) [Not 24/7]
 https://cloud37.ecuatel.com/ciracutv/live/manifest.m3u8
-#EXTINF:-1 tvg-id="ClickTVChile.cl@SD" tvg-logo="https://i.imgur.com/H0XNbMS.png" group-title="Documentales" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",ClickTV Chile (720p)
-https://v2.tustreaming.cl/clicktv/playlist.m3u8
 #EXTINF:-1 tvg-id="CostaRicaChannel.cr@SD" tvg-logo="https://i.imgur.com/N4pFVVF.png" group-title="Documentales" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Costa Rica Channel (576p) [Not 24/7]
 https://video0.rogohosting.com:19360/8006/8006.m3u8
 #EXTINF:-1 tvg-id="Crimen.&.Historia.es" tvg-logo="https://images.pluto.tv/channels/64ddcbb14c5ed80008fad416/colorLogoPNG.png" group-title="Documentales" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Crimen & Historia (720p)
@@ -1321,14 +1310,10 @@ http://38.134.250.110:8000/play/a01y/index.m3u8
 http://168.196.127.137:6001/play/a097/index.m3u8
 #EXTINF:-1 tvg-id="Ecovision.do@SD" tvg-logo="https://imgur.com/Y4ahiYu.png" group-title="Documentales" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Ecovision (720p)
 https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8
-#EXTINF:-1 tvg-id="ElSonorense.mx@SD" tvg-logo="https://i.imgur.com/aKvPd4g.jpg" group-title="Documentales" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",El Sonorense (1080p) [Not 24/7]
-https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8
 #EXTINF:-1 tvg-id="5bb1af6a268cae539bcedb0a" tvg-logo="https://i.imgur.com/V5vvuLK.png" group-title="Documentales" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Forensic Files
 https://jmp2.uk/plu-62e92392a3e6270007f562e8.m3u8
 #EXTINF:-1 tvg-id="GikTVMX.mx@SD" tvg-logo="https://i.imgur.com/Gwz78jZ.png" group-title="Documentales" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",GikTVMX (720p)
 https://pistream.ddns.net/hls/stream.m3u8
-#EXTINF:-1 tvg-id="GuaymateTV.do@SD" tvg-logo="https://i.imgur.com/PBgQi9a.png" group-title="Documentales" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Guaymate TV (720p) [Not 24/7]
-https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8
 #EXTINF:-1 tvg-id="HamaikaTelebista.es@SD" tvg-logo="https://i.imgur.com/HR3G3Ie.png" group-title="Documentales" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Hamaika Telebista (1080p)
 https://cdn3.wowza.com/1/RERMR282dnU5eE5Z/OHY0dVFs/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Historia.y.Vida.es" tvg-logo="https://i.imgur.com/56ZtCA1.png" group-title="Documentales" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Historia Y Vida (720p)
@@ -1339,9 +1324,6 @@ http://138.121.15.230:9002/HISTORY-2/index.m3u8
 http://15.204.246.24:8080/HistoryHD/index.m3u8
 #EXTINF:-1 tvg-id="HolvoetTV.cl@SD" tvg-logo="https://i.imgur.com/9JKRO3R.png" group-title="Documentales" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Holvoet TV (720p) [Not 24/7]
 https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="InvestigationDiscoveryLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/960px-InvestigationDiscoveryLogo2020.svg.png" group-title="Documentales" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Investigation Discovery Latin America South (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-http://38.65.175.84:8000/play/a0ch/index.m3u8
 #EXTINF:-1 tvg-id="JaliscoTV.mx@SD" tvg-logo="https://i.imgur.com/N4meE8I.png" group-title="Documentales" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Jalisco TV (720p)
 https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VILRK930.png" group-title="Documentales" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",LRK930 Encuentro - 105.5 TV - S Pedro de Jujuy - JU Jujuy
@@ -1356,6 +1338,8 @@ http://138.121.15.230:9002/NAT-GEO/index.m3u8
 http://15.204.246.24:8080/NatGeoHD/index.m3u8
 #EXTINF:-1 tvg-id="NatureTime.es" tvg-logo="https://i.imgur.com/72JmyjM.png" group-title="Documentales" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",NatureTime (1080p)
 https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="OEPMTV.do@SD" tvg-logo="https://i.imgur.com/QghtwMB.jpeg" group-title="Documentales" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",OEPM TV (720p)
+https://cnn.hostlagarto.com/oepmtelevision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="600ae6a78d801e0007117d21" tvg-logo="https://images.pluto.tv/channels/600ae6a78d801e0007117d21/colorLogoPNG.png" group-title="Documentales" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Pluto TV Animales
 https://jmp2.uk/plu-600ae6a78d801e0007117d21.m3u8
 #EXTINF:-1 tvg-id="5ddc503ac7ef120009b101a2" tvg-logo="https://images.pluto.tv/channels/5ddc503ac7ef120009b101a2/colorLogoPNG_1767716226725.png" group-title="Documentales" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Pluto TV Documentales
@@ -1384,6 +1368,8 @@ http://168.196.127.137:6001/play/a06p/index.m3u8
 https://trun.suyaitv.cl/memfs/1255a743-cd41-40a8-86c4-d264ee16ebf3.m3u8
 #EXTINF:-1 tvg-id="Teletur.do@SD" tvg-logo="https://i.imgur.com/Ig4gR93.png" group-title="Documentales" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Teletur (720p) [Not 24/7]
 https://fox.hostlagarto.com:8081/teleturtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TurismoRDTV.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3800-294x165-FFFFFF.jpg" group-title="Documentales" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Turismo RDTV (720p) [Not 24/7]
+https://5790d294af2dc.streamlock.net/yosoyturismotv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TurismoTravelTV.cl@SD" tvg-logo="https://i.imgur.com/4ixl8Px.png" group-title="Documentales" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Turismo Travel TV
 https://stmv3.voxtvhd.com.br/turismotraveltv/turismotraveltv/playlist.m3u8
 #EXTINF:-1 tvg-id="TuristikTV.mx@SD" tvg-logo="https://i.imgur.com/g9j0ze8.png" group-title="Documentales" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Turistik TV (720p)
@@ -1438,8 +1424,8 @@ https://stmv1.voxtvhd.com.br/latacungatv/latacungatv/playlist.m3u8
 https://loretotv.moxapps.shop/live/QFM7KYOlxWd47ybXB3Z1u2P13Py1/index.m3u8
 #EXTINF:-1 tvg-id="MakroDigitalTelevision.ec@SD" tvg-logo="https://makrodigitaltelevision.com/logo.jpg" group-title="Ecuador" http-referrer="https://makrodigitaltelevision.com" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",MakroDigital Television (1080p)
 https://makrodigitaltv.makrodigital.com/makrodigitaltelevision/iptv/playlist.m3u8
-#EXTINF:-1 tvg-id="MaxivisionCanal8.ec@SD" tvg-logo="https://i.imgur.com/rlFAtnO.jpeg" group-title="Ecuador" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Maxivision Canal 8 (1080p)
-http://181.119.97.124:8080/play/a00w/index.m3u8
+#EXTINF:-1 tvg-id="MarcaTV.ec@SD" tvg-logo="https://i.imgur.com/ez1NxwJ.jpg" group-title="Ecuador" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Marca TV (1080p)
+http://200.7.219.221:8088/live/livetv/index.m3u8
 #EXTINF:-1 tvg-id="MelRadioTV.ec@SD" tvg-logo="https://i.imgur.com/uu8Clh2.png" group-title="Ecuador" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Mel Radio TV (360p)
 https://eu1.servers10.com:8081/8334/index.m3u8
 #EXTINF:-1 tvg-id="NukaTV.ec@SD" tvg-logo="https://i.imgur.com/4r2Ycju.png" group-title="Ecuador" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Nuka TV (720p) [Not 24/7]
@@ -1450,6 +1436,8 @@ http://45.224.97.181:9999/Oromar/index.m3u8
 https://stream.oromar.tv/hls/camriva/index.m3u8
 #EXTINF:-1 tvg-id="PuruwaTV.ec@SD" tvg-logo="https://i.imgur.com/CYldC2R.png" group-title="Ecuador" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Puruwa TV (1080p)
 https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8
+#EXTINF:-1 tvg-id="RedTVEVentanas.ec@SD" tvg-logo="https://i.imgur.com/Pzf2ZAW.png" group-title="Ecuador" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Red TVE Ventanas (432p)
+https://s2.tvdatta.com:3825/live/redtvelive.m3u8
 #EXTINF:-1 tvg-id="RTRTV.ec@SD" tvg-logo="https://i.imgur.com/dvP2yqB.png" group-title="Ecuador" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",RTRTV (1080p)
 https://tv3ecuador.site/hls/stream/index.m3u8
 #EXTINF:-1 tvg-id="RTV.ec@SD" tvg-logo="https://i.imgur.com/DzxGHRZ.png" group-title="Ecuador" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",RTV (Ecuador) (720p) [Not 24/7]
@@ -1470,6 +1458,8 @@ https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
 https://streamingav.asambleanacional.gob.ec/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Canal.A&E.(Ecuador).ec" tvg-logo="https://i.imgur.com/zhdIwlm.png" group-title="Ecuador" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",TVC (Ecuador) (1080p)
 http://45.224.97.181:9999/TVC/index.m3u8
+#EXTINF:-1 tvg-id="TvOro.ec@SD" tvg-logo="https://i.imgur.com/9d02qUU.jpeg" group-title="Ecuador" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",TvOro (1080p)
+http://45.187.0.19:9090/tvusa/index.m3u8
 #EXTINF:-1 tvg-id="UNIANDESTV.ec@SD" tvg-logo="https://i.imgur.com/1rluyB7.png" group-title="Ecuador" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",UNIANDES TV (720p) [Not 24/7]
 https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8
 #EXTINF:-1 tvg-id="UnsionTV.ec@SD" tvg-logo="https://i.imgur.com/HQGBqGU.png" group-title="Ecuador" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Unsion TV (1080p)
@@ -1489,8 +1479,6 @@ https://turnerlive.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_51
 https://fox.hostlagarto.com:8081/aguilatv/playlist.m3u8
 #EXTINF:-1 tvg-id="AhoraTV.do@SD" tvg-logo="https://i.imgur.com/dyJyuXc.png" group-title="Entretenimiento" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Ahora TV (1080p) [Not 24/7]
 https://stream.haislin.com/ahoratv/index.m3u8
-#EXTINF:-1 tvg-id="AIONTV.do@SD" tvg-logo="https://i.imgur.com/DBvm7YS.png" group-title="Entretenimiento" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",AION TV (1080p) [Not 24/7]
-https://edge.essastream.com/aiontelevision/playlist.m3u8
 #EXTINF:-1 tvg-id="AlcarrizosTV.do@SD" tvg-logo="https://i.ibb.co/C3fdPYGs/Alcarrizo.jpg" group-title="Entretenimiento" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Alcarrizos TV (720p) [Not 24/7]
 https://5790d294af2dc.streamlock.net/alcarrizostv/alcarrizostv/playlist.m3u8
 #EXTINF:-1 tvg-id="AlegreTVRD.do@SD" tvg-logo="https://i.imgur.com/O6USO8r.png" group-title="Entretenimiento" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Alegre TV RD (720p) [Not 24/7]
@@ -1523,6 +1511,8 @@ https://fox.hostlagarto.com:8081/bocachicatv/tracks-v1a1/mono.m3u8
 https://tele-stream.telecasa.net/live/st2/bonaotv-hd/index.m3u8
 #EXTINF:-1 tvg-id="BonchesLatinosTV.do@SD" tvg-logo="https://i.imgur.com/Kp8x0NS.png" group-title="Entretenimiento" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Bonches Latinos TV (720p)
 https://5790d294af2dc.streamlock.net/latinostv/latinostv/playlist.m3u8
+#EXTINF:-1 tvg-id="CamuTV.do@SD" tvg-logo="https://i.imgur.com/3d8cLm9.jpg" group-title="Entretenimiento" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Camu TV (480p) [Not 24/7]
+https://live20.bozztv.com/akamaissh101/ssh101/camutv/playlist.m3u8
 #EXTINF:-1 tvg-id="CanaTVDigital.do@SD" tvg-logo="https://i.imgur.com/k8jxt12.png" group-title="Entretenimiento" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Cana TV Digital (720p) [Not 24/7]
 https://cdnfox.hostlagarto.com/canatvdigital/index.m3u8
 #EXTINF:-1 tvg-id="Canal.1.co" tvg-logo="https://i.ibb.co/KhNS8Dy/cropped-logoo-1.png" group-title="Entretenimiento" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Canal 1 (Costa Rica) (720p) [Not 24/7]
@@ -1625,14 +1615,10 @@ https://ss2.tvrdomi.com:1936/digitalvision/digitalvision/playlist.m3u8
 https://2-fss-2.streamhoster.com/pl_138/206532-6829872-1/playlist.m3u8
 #EXTINF:-1 tvg-id="EDNTV.hn@SD" tvg-logo="https://i.imgur.com/5fPsYTz.png" group-title="Entretenimiento" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",EDN TV (1080p) [Not 24/7]
 https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8
-#EXTINF:-1 tvg-id="ElPitucoTV.do@HD" tvg-logo="https://elpituco.com/wp-content/uploads/2021/04/ElPituco.png" group-title="Entretenimiento" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",El Pituco TV (720p)
-https://imagenuniversaltv.net:3439/live/elpitucolive.m3u8
 #EXTINF:-1 tvg-id="ElSeis6.do@SD" tvg-logo="https://elseis.do/wp-content/uploads/2025/02/logo-el-seis-horizontal.png" group-title="Entretenimiento" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",El Seis 6 (1080p) [Not 24/7]
 https://stream.elseis.do/canal6/live_1080.m3u8
 #EXTINF:-1 tvg-id="EliasPinaTV.do@SD" tvg-logo="https://i.imgur.com/VqxSsZD.png" group-title="Entretenimiento" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Elias Pina TV (720p) [Not 24/7]
 https://cloud2.streaminglivehd.com:1936/8078/8078/playlist.m3u8
-#EXTINF:-1 tvg-id="Enntivision.do@SD" tvg-logo="https://i.imgur.com/nePOFZW.png" group-title="Entretenimiento" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Enntivision (1080p) [Not 24/7]
-https://edge.essastream.com/enntivision/playlist.m3u8
 #EXTINF:-1 tvg-id="ENTChannel.uk@HD" tvg-logo="https://static.elektamedia.com/ch/entch.png" group-title="Entretenimiento" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",ENT Channel (720p)
 https://cdn.global.elektamedia.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
 #EXTINF:-1 tvg-id="ENTFamily.uk@HD" tvg-logo="https://static.elektamedia.com/ch/entf.png" group-title="Entretenimiento" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",ENT Family (720p)
@@ -1657,8 +1643,6 @@ https://vdopanel.jlahozconsulting.com:3706/hybrid/play.m3u8
 https://streaming-live-fcdn.api.prd.univisionnow.com/galaeast/galaeast.isml/hls/galaeast.m3u8
 #EXTINF:-1 tvg-id="GalaxiATeVe.do@SD" tvg-logo="https://grupomediosdelnorte.com/iptv/galaxia.png" group-title="Entretenimiento" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",GalaxiATeVe (360p)
 https://streaming.grupomediosdelnorte.com:19360/galaxiateve/galaxiateve.m3u8
-#EXTINF:-1 tvg-id="GHTelevision.do@SD" tvg-logo="https://i.imgur.com/xhkiiO3.png" group-title="Entretenimiento" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",GH Television (1080p) [Not 24/7]
-https://fox.hostlagarto.com:8081/ghtelevision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="GiTelevision.do@SD" tvg-logo="https://i.imgur.com/br9TNG8.png" group-title="Entretenimiento" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Gi Television (720p) [Not 24/7]
 https://canal.gitelevisionserver.com/live/DIEEFIh506fL8huspvl0f0c2PZF3/index.m3u8
 #EXTINF:-1 tvg-id="GirasolTV.hn@SD" tvg-logo="https://i.imgur.com/2t7A2yg.png" group-title="Entretenimiento" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Girasol TV (1080i)
@@ -1673,8 +1657,6 @@ https://cdn.streamingcpanel.com:3447/live/hainavisionlive.m3u8
 http://15.204.246.24:8080/HOLATVHD/index.m3u8
 #EXTINF:-1 tvg-id="InformeTV.do@HD" tvg-logo="https://imgur.com/TmJaXrO.jpg" group-title="Entretenimiento" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Informe TV (1080p) [Not 24/7]
 https://edge.essastream.com/informetv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="JPDTV.do@HD" tvg-logo="https://i0.wp.com/juanpabloduartetv.com/wp-content/uploads/2024/08/logo-JPDTV-100-x-100.png" group-title="Entretenimiento" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",JPD TV [Not 24/7]
-https://imagenuniversaltv.net:3026/live/juanpabloduartetvlive.m3u8
 #EXTINF:-1 tvg-id="JuniorTechnologiaTV.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3812-294x165-FFFFFF.jpg" group-title="Entretenimiento" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Junior Technologia TV (1080p) [Not 24/7]
 https://streamunoapp.com:3616/live/juniorrodrigueztvlive.m3u8
 #EXTINF:-1 tvg-id="KANAL.D.DRAMA.(Kanal.D.Drama).pe" tvg-logo="https://i.imgur.com/WIeZMKT.png" group-title="Entretenimiento" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Kanal D Drama (1080p)
@@ -1743,6 +1725,9 @@ https://fox.hostlagarto.com:8081/morrotv/playlist.m3u8
 http://198.58.104.90:8989/mtv2/index.m3u8
 #EXTINF:-1 tvg-id="Musavision.do@SD" tvg-logo="https://i.imgur.com/wMse6cT.png" group-title="Entretenimiento" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Musavision (1080p)
 https://cnn.hostlagarto.com/musavisiontv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="NaranjaTV.do@SD" tvg-logo="https://i.imgur.com/g7iFN3s.png" group-title="Entretenimiento" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Naranja TV (720p)
+#EXTVLCOPT:http-referrer=https://nanduti.com.py/nanduti-tv
+https://cdn.streamingcpanel.com:3526/live/teleraiceslive.m3u8
 #EXTINF:-1 tvg-id="NavarreteTelevision.do@HD" tvg-logo="https://dominicanchannels.com/wp-content/uploads/navarrete.png" group-title="Entretenimiento" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Navarrete Television (1080p) [Not 24/7]
 https://cnn.hostlagarto.com/ntvnavarrete/index.m3u8
 #EXTINF:-1 tvg-id="NexTVCanal21.pa@SD" tvg-logo="https://i.imgur.com/QQBd052.png" group-title="Entretenimiento" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Nex TV Canal 21
@@ -1751,10 +1736,10 @@ https://movil.ejeserver.com/live/nextv.m3u8
 https://5790d294af2dc.streamlock.net/Nexxo/Nexxo/playlist.m3u8
 #EXTINF:-1 tvg-id="NicoyaTV.cr@SD" tvg-logo="https://i.imgur.com/Lj2jRn3.png" group-title="Entretenimiento" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",NicoyaTV (720p) [Not 24/7]
 https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
-#EXTINF:-1 tvg-id="NimTV.gt@SD" tvg-logo="https://i.imgur.com/mBNOSzl.png" group-title="Entretenimiento" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Nim TV (720p) [Not 24/7]
-https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
 #EXTINF:-1 tvg-id="NitidaTV.do@SD" tvg-logo="https://i.imgur.com/z9JkxcM.png" group-title="Entretenimiento" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Nitida TV (720p) [Not 24/7]
 https://vs20.live.opencaster.com/bznudxxdtppv/index.m3u8
+#EXTINF:-1 tvg-id="NuestraImagenTV.gt@SD" tvg-logo="https://i.imgur.com/sknLXZI.jpeg" group-title="Entretenimiento" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Nuestra Imagen TV
+https://live.tvcontrolcp.com:1936/tvnitelevision/tvnitelevision/playlist.m3u8
 #EXTINF:-1 tvg-id="OndaTV.do@SD" tvg-logo="https://i.imgur.com/RUIyD9a.png" group-title="Entretenimiento" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Onda TV (Dominican Republic) (720p)
 https://cnn.hostlagarto.com/ondatv/index.m3u8
 #EXTINF:-1 tvg-id="ORBITTV.do@SD" tvg-logo="https://i.imgur.com/lizQs3n.png" group-title="Entretenimiento" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",ORBIT TV (1080p)
@@ -1797,6 +1782,8 @@ https://jmp2.uk/plu-65cf6ab58145cb0008129ca8.m3u8
 https://jmp2.uk/plu-662a69daa0a74e00087a1c72.m3u8
 #EXTINF:-1 tvg-id="PronemsTV.do@SD" tvg-logo="https://i.imgur.com/a9ORO1G.png" group-title="Entretenimiento" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Pronems TV (1080p) [Not 24/7]
 https://fox.hostlagarto.com:8081/pronemstv/playlist.m3u8
+#EXTINF:-1 tvg-id="PuntaCanaTV.do@SD" tvg-logo="https://i.imgur.com/KF7fLTx.png" group-title="Entretenimiento" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Punta Cana TV (720p) [Not 24/7]
+https://fox.hostlagarto.com:8081/puntacanatv/index.m3u8
 #EXTINF:-1 tvg-id="PuntoTV.do@SD" tvg-logo="https://imgur.com/vfvN6ox.png" group-title="Entretenimiento" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Punto TV (1080p) [Not 24/7]
 https://fox.hostlagarto.com:8081/puntotv/index.m3u8
 #EXTINF:-1 tvg-id="PuntoTVDigital40.do@SD" tvg-logo="https://puntotvdigital.net/wp-content/uploads/2024/02/logo.png" group-title="Entretenimiento" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Punto TV Digital 40 [Geo-blocked]
@@ -1811,8 +1798,6 @@ https://cloud2.streaminglivehd.com:1936/8072/8072/playlist.m3u8
 https://s2.tvdatta.com:3112/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="RadioyTelevisionMarti.us@SD" tvg-logo="https://i.imgur.com/J2ZMa4g.png" group-title="Entretenimiento" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Radio y Television Marti (720p)
 https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist.m3u8
-#EXTINF:-1 tvg-id="RASDTV.eh@SD" tvg-logo="https://i.imgur.com/9Pb8806.png" group-title="Entretenimiento" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",RASD TV (1080i)
-https://cloud.streamingconnect.tv/hls/rasdtv2/rasdtv.m3u8
 #EXTINF:-1 tvg-id="RCTV3.us@SD" tvg-logo="https://i.imgur.com/TvFKG35.png" group-title="Entretenimiento" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",RCTV3 (480p)
 https://vod.cityofrc.us/live-6/live/stream-1/live.m3u8
 #EXTINF:-1 tvg-id="ReadyTVCanal6.do@SD" tvg-logo="https://i.imgur.com/ZONPQhR.png" group-title="Entretenimiento" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Ready TV Canal 6 (720p) [Not 24/7]
@@ -1841,13 +1826,11 @@ https://edge.essastream.com/telemilenio/playlist.m3u8
 http://tiquiciatv.com:1935/stv/web/playlist.m3u8
 #EXTINF:-1 tvg-id="SenalDigitalTV.do@HD" tvg-logo="https://imgur.com/KGqUu1X.jpg" group-title="Entretenimiento" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Senal Digital TV [Not 24/7]
 https://soportedvb.click:3494/live/senaldigitaltvlive.m3u8
-#EXTINF:-1 tvg-id="SILTV.gt@SD" tvg-logo="https://i.imgur.com/tWZXRVu.png" group-title="Entretenimiento" http-referrer="https://www.facebook.com/Siltv32" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome",SIL TV (1080p)
-https://live20.bozztv.com/giatv/giatv-SilTvOnline/SilTvOnline/playlist.m3u8
 #EXTINF:-1 tvg-id="6a8d96aa2cfd341eb5809214" tvg-logo="https://i.imgur.com/f8bDccF.png" group-title="Entretenimiento" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",SiTV (1080p) [Not 24/7]
 http://190.122.104.210:5080/LiveApp/streams/sitv2.m3u8
 #EXTINF:-1 tvg-id="Canal.Antigua.(Guatemala).sv" tvg-logo="https://i.ibb.co/YXYv8sf/logo-soltv2.png" group-title="Entretenimiento" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Sol TV (Guatemala) (720p)
 https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
-#EXTINF:-1 tvg-id="Canal.Tigo.Sports.(El.Salvador).sv" tvg-logo="https://i.imgur.com/jaBxxpt.png" group-title="Entretenimiento" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",SolTV (El Salvador) (720p)
+#EXTINF:-1 tvg-id="SolTV.sv@SD" tvg-logo="https://i.imgur.com/jaBxxpt.png" group-title="Entretenimiento" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",SolTV (El Salvador) (720p)
 https://videostream.shockmedia.com.ar/hls/canalsoltv/canalsoltv.m3u8
 #EXTINF:-1 tvg-id="64edf6eaa7ec0d000812f58c" tvg-logo="https://images.pluto.tv/channels/628751bb7154a40007168843/colorLogoPNG_1748431640253.png" group-title="Entretenimiento" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",South Park (Germany)
 https://jmp2.uk/plu-628751bb7154a40007168843.m3u8
@@ -1877,6 +1860,8 @@ https://5790d294af2dc.streamlock.net/dajabon/dajabon/playlist.m3u8
 https://cdn.telepoder.online:3229/dash/stream.m3u8
 #EXTINF:-1 tvg-id="TeleProyectoTV.do@HD" tvg-logo="https://imgur.com/LmBxN5x.png" group-title="Entretenimiento" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Tele Proyecto TV [Not 24/7]
 https://5790d294af2dc.streamlock.net/Teleproyecto/Teleproyecto/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleBrunca.cr@SD" tvg-logo="https://i.imgur.com/m3xu6Ms.png" group-title="Entretenimiento" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",TeleBrunca (720p) [Not 24/7]
+https://59ef525c24caa.streamlock.net/telebrunca/telebrunca/playlist.m3u8
 #EXTINF:-1 tvg-id="Telecanal12.do@SD" tvg-logo="https://i.imgur.com/90cTK8S.png" group-title="Entretenimiento" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Telecanal 12 (720p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://edge.essastream.com/telecanal12/tracks-v1a1/mono.m3u8
@@ -1884,6 +1869,8 @@ https://edge.essastream.com/telecanal12/tracks-v1a1/mono.m3u8
 https://edge.essastream.com/telecanal28/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TeleCibaoHD.do@SD" tvg-logo="https://i.imgur.com/IpInp05.png" group-title="Entretenimiento" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",TeleCibaoHD (720p) [Not 24/7]
 https://edge.essastream.com/telecibaotv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Telecontacto.do@SD" tvg-logo="https://i.imgur.com/TMvV9dF.png" group-title="Entretenimiento" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Telecontacto
+https://streaming.grupomediosdelnorte.com:19360/telecontacto/telecontacto.m3u8
 #EXTINF:-1 tvg-id="Teleimpacto.do@SD" tvg-logo="https://i.imgur.com/dBEysOV.png" group-title="Entretenimiento" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Teleimpacto (720p) [Not 24/7]
 https://vpss2003.streamprolive.com/hls/live.m3u8
 #EXTINF:-1 tvg-id="Telemas.hn@SD" tvg-logo="https://i.imgur.com/eORs1yt.jpg" group-title="Entretenimiento" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Telemas (1080p)
@@ -1892,6 +1879,8 @@ https://s.emisoras.tv:8081/telemas/index.m3u8
 https://acceso.mediosdecostarica.com:3192/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="Telemax.do@SD" tvg-logo="https://i.imgur.com/QvKmjvV.png" group-title="Entretenimiento" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Telemax (Dominican Republic) (1080p) [Not 24/7]
 https://edge.essastream.com/telemax/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="TelemediosCanal8.do@SD" tvg-logo="https://i.imgur.com/xhEAw7z.png" group-title="Entretenimiento" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Telemedios Canal 8 (1080p) [Not 24/7]
+https://hls.tvabierta.net/hls/008.m3u8
 #EXTINF:-1 tvg-id="Canal.13.de.Panamá.(Telemetro).pa" tvg-logo="https://i.imgur.com/vJJrGgV.png" group-title="Entretenimiento" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Telemetro (720p)
 http://181.78.121.15:8000/play/a001/index.m3u8
 #EXTINF:-1 tvg-id="Canal.13.de.Panamá.(Telemetro).pa" tvg-logo="https://imgur.com/Ck2NL0t.png" group-title="Entretenimiento" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Telemetro TV [Not 24/7]
@@ -1965,14 +1954,14 @@ https://host.streamingnation.live/p/3467/live/tvhigueylive.m3u8
 https://livetv.305streamhd.com:3504/live/tvhispaniclive.m3u8
 #EXTINF:-1 tvg-id="TVPlata.do@SD" tvg-logo="https://i.imgur.com/r3urUnn.png" group-title="Entretenimiento" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",TV Plata (720p) [Geo-blocked]
 https://ss2.tvrdomi.com:1936/tvplata/tvplata/playlist.m3u8
+#EXTINF:-1 tvg-id="TVQuisqueya.us@SD" tvg-logo="https://i.imgur.com/G7X4LQI.png" group-title="Entretenimiento" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",TV Quisqueya (720p)
+https://cloud5.livescast.com:19360/canaltvquisqueya/canaltvquisqueya.m3u8
 #EXTINF:-1 tvg-id="TVCARiBLatino.sx@SD" tvg-logo="https://i.imgur.com/fvGlwKo.png" group-title="Entretenimiento" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",TVCARiB Latino (720p) [Not 24/7]
 https://cdn.mycloudstream.io/hls/live/broadcast/xn44vdc5/index.m3u8
 #EXTINF:-1 tvg-id="TVO.HD.us_locals1" tvg-logo="https://i.imgur.com/MhloaFB.png" group-title="Entretenimiento" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",TVO (720p) [Not 24/7]
 https://videoserver.tmcreativos.com:19360/gkemzxrrmr/gkemzxrrmr.m3u8
 #EXTINF:-1 tvg-id="TVOCanal23.sv@SD" tvg-logo="https://i.imgur.com/nsXXEUZ.png" group-title="Entretenimiento" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",TVO Canal 23 (720p)
 https://tvo.flynetwifi.com/5crjmr1645tqt71ovagufgc1x3d/playlist.m3u8
-#EXTINF:-1 tvg-id="TVS.do@SD" tvg-logo="https://i.imgur.com/a2YX1oj.jpg" group-title="Entretenimiento" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",TVS (Dominican Republic) (540p) [Not 24/7]
-https://imagenuniversaltv.net:3741/live/tvslive.m3u8
 #EXTINF:-1 tvg-id="TVSAPublicChannel.us@SD" tvg-logo="https://i.imgur.com/3Om5TUc.png" group-title="Entretenimiento" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",TVSA Public Channel (720p)
 https://edge-f.swagit.com/live/sanantoniotx/live-2-a/playlist.m3u8
 #EXTINF:-1 tvg-id="0640" tvg-name="Unife TV" tvg-logo="https://files.catbox.moe/cmjw0h.png" group-title="Entretenimiento" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Unife TV
@@ -1985,6 +1974,8 @@ https://www.uvatvhd.com/hls.php?file=live.m3u8
 https://stmv6.voxtvhd.com.br/vallenuevotv/vallenuevotv/playlist.m3u8
 #EXTINF:-1 tvg-id="Vallevision.do@SD" tvg-logo="https://i.imgur.com/lNpgFAU.png" group-title="Entretenimiento" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Vallevision (720p) [Not 24/7]
 https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
+#EXTINF:-1 tvg-id="VegaTeve.do@SD" tvg-logo="https://i.imgur.com/jiyMOZx.png" group-title="Entretenimiento" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Vega Teve (720p) [Not 24/7]
+https://cloud5.livescast.com:19360/canalvegateve/canalvegateve.m3u8
 #EXTINF:-1 tvg-id="VegavisionCanal18.do@SD" tvg-logo="https://i.imgur.com/352jxnd.png" group-title="Entretenimiento" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Vegavision Canal 18 (1080p) [Not 24/7]
 https://fox.hostlagarto.com:8081/canal26/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="VisionLatinaNetwork.us@SD" tvg-logo="https://i.imgur.com/VgYCskX.png" group-title="Entretenimiento" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Vision Latina Network (1080p)
@@ -1995,13 +1986,16 @@ https://soportedvb.click:3891/live/visionndvlive.m3u8
 https://cnn.livestreaminggroup.info:3507/live/vtv32live.m3u8
 #EXTINF:-1 tvg-id="WTVCanal20.ni@SD" tvg-logo="https://i.imgur.com/nb81xeU.png" group-title="Entretenimiento" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",WTV Canal 20 (1080p)
 https://cootv.cootel.com.ni:8095/Canal40_WTV/playlist.m3u8
-#EXTINF:-1 tvg-id="XtremoChannel.do@SD" tvg-logo="https://i.imgur.com/bvPh0Uq.png" group-title="Entretenimiento" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Xtremo Channel (720p) [Geo-blocked]
-#EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1456
-https://ss2.tvrdomi.com:1936/xtremochannel/xtremochannel/playlist.m3u8
+#EXTINF:-1 tvg-id="XtraTv.do@HD" tvg-logo="https://xtratvrd.com/logo512.png" group-title="Entretenimiento" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Xtra Tv (720p) [Not 24/7]
+https://edge.essastream.com/xtratv/index.m3u8
 #EXTINF:-1 tvg-id="Yunavision.do@SD" tvg-logo="https://i.imgur.com/YjceEv5.png" group-title="Entretenimiento" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Yunavision (720p) [Not 24/7]
 https://tele-stream.telecasa.net/live/st1/yunavision-hd/index.m3u8
+#EXTINF:-1 tvg-id="ZASTV.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/4058-294x165-FFFFFF.jpg" group-title="Entretenimiento" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",ZAS TV
+https://cloud5.zastv.net/hls/zastv.m3u8
 #EXTINF:-1 tvg-id="ZincNombreTV.do@HD" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3751-294x165-FFFFFF.jpg" group-title="Entretenimiento" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Zinc Nombre TV (720p) [Not 24/7]
 https://5790d294af2dc.streamlock.net/zincnombretv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="ZonavisionTV.do@SD" tvg-logo="https://imgur.com/B3PrrMH.png" group-title="Entretenimiento" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Zonavision TV [Not 24/7]
+https://ds.tvabierta.net/memfs/b295f254-7af9-45e4-bfc6-7e0bba41929d.m3u8
 #EXTINF:-1 tvg-id="ZurquiTV.cr@SD" tvg-logo="https://i.imgur.com/XvktUBB.jpg" group-title="Entretenimiento" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Zurqui TV (720p)
 https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
 #EXTINF:-1 tvg-id="OPA.cr@SD" tvg-logo="https://i.imgur.com/300c1ZH.png" group-title="Entretenimiento" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",¡OPA! (720p)
@@ -2030,8 +2024,6 @@ https://live1.ovalcast.com:3916/live/bcngospeltvlive.m3u8
 http://canal2000.berkano-systems.net/streaming/streams/canal2000.m3u8
 #EXTINF:-1 tvg-id="Canal33Madrid.es@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Logo_Canal_33_Madrid_2025.jpg/960px-Logo_Canal_33_Madrid_2025.jpg" group-title="España" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Canal 33 Madrid
 https://media2.streambrothers.com:1936/8140/8140/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal4ManchaCentro.es@SD" tvg-logo="https://i.imgur.com/t3O3O9M.png" group-title="España" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Canal 4 Mancha Centro (720p) [Not 24/7]
-https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal45.es@SD" tvg-logo="https://i.imgur.com/yEfSnGt.png" group-title="España" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Canal 45 (576p)
 https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/master.m3u8
 #EXTINF:-1 tvg-id="Canal56.es@SD" tvg-logo="https://i.imgur.com/pwRVbCz.png" group-title="España" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Canal 56 (576p) [Not 24/7]
@@ -2072,6 +2064,8 @@ https://congresodirecto.akamaized.net/hls/live/2038276/canal3/master.m3u8
 https://congresodirecto.akamaized.net/hls/live/2038277/canal4/master.m3u8
 #EXTINF:-1 tvg-id="CongresodelosDiputados5.es@SD" tvg-logo="https://i.imgur.com/2LAzcH8.jpg" group-title="España" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Congreso de los Diputados 5 (360p) [Not 24/7]
 https://congresodirecto.akamaized.net/hls/live/2038278/canal5/master.m3u8
+#EXTINF:-1 tvg-id="CostaNoroesteTV.es@SD" tvg-logo="https://i.imgur.com/iM9AN6Z.png" group-title="España" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Costa Noroeste TV (1080p) [Not 24/7]
+https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8
 #EXTINF:-1 tvg-id="CurroJimenez.us@Spain" tvg-logo="https://i.imgur.com/e3biTY5.png" group-title="España" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Curro Jimenez
 https://jmp2.uk/plu-5f1acd36779de70007a680d1.m3u8
 #EXTINF:-1 tvg-id="DiezTVLasVillas.es@SD" tvg-logo="https://i.imgur.com/QTA40lP.png" group-title="España" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Diez TV Las Villas (1080p)
@@ -2118,6 +2112,8 @@ https://cloud.streamingconnect.tv/hls/guadatv/guadatv.m3u8
 https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
 #EXTINF:-1 tvg-id="ES26000025M" tvg-logo="https://m.media-amazon.com/images/I/5194tl8duqL.png" group-title="España" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",HOLA! Play (1080p)
 https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8
+#EXTINF:-1 tvg-id="Imas.TV.es" tvg-logo="https://i.imgur.com/a9hgTmM.png" group-title="España" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Imas TV (1080p) [Not 24/7]
+https://secure3.todostreaming.es/live/imastv-livestream.m3u8
 #EXTINF:-1 tvg-id="InterAlmeria.TV" tvg-logo="https://i.imgur.com/ulSkAjZ.png" group-title="España" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Interalmeria TV (1080p)
 https://interalmeria.tv/directo/live.m3u8
 #EXTINF:-1 tvg-id="IntercomarcalTV.es@SD" tvg-logo="https://i.imgur.com/KLPSnAT.png" group-title="España" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Intercomarcal TV (576p) [Not 24/7]
@@ -2153,8 +2149,6 @@ http://amaru.dyndns.org:8870/0.m3u8
 https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
 #EXTINF:-1 tvg-id="OndaCadiz.TV" tvg-logo="https://i.imgur.com/sOBMnby.png" group-title="España" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Onda Cadiz (720p)
 https://ondacadiztv.es:30443/octv/24h/playlist.m3u8
-#EXTINF:-1 tvg-id="ParlamentodeNavarra.es@SD" tvg-logo="https://i.imgur.com/JnhWxKv.png" group-title="España" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Parlamento de Navarra (368p) [Not 24/7]
-https://broadcasting.parlamentodenavarra.es/live/canal1/master.m3u8
 #EXTINF:-1 tvg-id="PlatziTV.es@SD" tvg-logo="https://i.imgur.com/vEzeqHP.png" group-title="España" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Platzi TV (1080p)
 https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
 #EXTINF:-1 tvg-id="5f1abce155a03d0007718834" tvg-logo="https://images.pluto.tv/channels/5f1abce155a03d0007718834/colorLogoPNG.png" group-title="España" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Pluto TV Comedia made in Spain
@@ -2177,8 +2171,6 @@ https://rtvelivestream.rtve.es/rtvesec/rne/rne_para_todos_main.m3u8
 https://open.http.mp.streamamg.com/p/3001314/sp/300131400/playManifest/entryId/0_ye0b8tc0/format/applehttp/protocol/https/uiConfId/30026292/a.m3u8
 #EXTINF:-1 tvg-id="Sintetasnohayparaiso.us@Spain" tvg-logo="https://i.imgur.com/fpwU2IQ.png" group-title="España" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Sin tetas no hay paraiso
 https://jmp2.uk/plu-604bdf4e6d0abc0007ba77ad.m3u8
-#EXTINF:-1 tvg-id="Taroteame.es@SD" group-title="España" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Taroteame (576p)
-https://5d2733224ac48.streamlock.net/taroteame/tarot_web/playlist.m3u8
 #EXTINF:-1 tvg-id="Tele.Elx.es" tvg-logo="https://i.imgur.com/w5NTWpl.png" group-title="España" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Tele Elx (1080p)
 https://tvdirecto.teleelx.es/stream/teleelx.m3u8
 #EXTINF:-1 tvg-id="TeleSafor.es@SD" tvg-logo="https://i.imgur.com/EowJfr0.png" group-title="España" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Tele Safor (720p) [Not 24/7]
@@ -2327,7 +2319,7 @@ https://jmp2.uk/plu-63eb9255c111bc0008fe6ec4.m3u8
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
 https://jmp2.uk/plu-62d0895ebe7a970008785244.m3u8
-#EXTINF:-1 tvg-id="GLOBAL.(RED.TV).pe" tvg-logo="https://i.imgur.com/1rQaROm.png" group-title="Internacional" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Global TV (Dominican Republic) (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="GlobalTV.do@SD" tvg-logo="https://i.imgur.com/1rQaROm.png" group-title="Internacional" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Global TV (Dominican Republic) (720p) [Not 24/7]
 #EXTVLCOPT:http-referrer=https://player.castr.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 https://vtm1.msinteractiva.com./globaltv/globaltv/playlist.m3u8
@@ -2351,6 +2343,8 @@ https://jmp2.uk/plu-67f960680072d6b187a0682e.m3u8
 https://jmp2.uk/plu-698a45156dc3c71eb1ba6599.m3u8
 #EXTINF:-1 tvg-id="5ddc266f80e3550009136843" tvg-logo="https://images.pluto.tv/channels/5ddc266f80e3550009136843/colorLogoPNG.png" group-title="Internacional" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Pluto TV Aventura
 https://jmp2.uk/plu-5ddc266f80e3550009136843.m3u8
+#EXTINF:-1 tvg-id="5dd6d935d000120009bc1132" tvg-logo="https://images.pluto.tv/channels/5dd6d935d000120009bc1132/logo7_2-20250131170429.png" group-title="Internacional" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Pluto TV Competencias
+https://jmp2.uk/plu-5dd6d935d000120009bc1132.m3u8
 #EXTINF:-1 tvg-id="6185a9a88b2ce30007de5128" tvg-logo="https://images.pluto.tv/channels/6185a9a88b2ce30007de5128/colorLogoPNG_1765467371603.png" group-title="Internacional" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Pluto TV Dramas Coreanos
 https://jmp2.uk/plu-6185a9a88b2ce30007de5128.m3u8
 #EXTINF:-1 tvg-id="6661d5424b10960008599fa3" tvg-logo="https://images.pluto.tv/channels/6661d5424b10960008599fa3/colorLogoPNG_1765467438253.png" group-title="Internacional" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Pluto TV Dramas Coreanos Teen
@@ -2450,8 +2444,6 @@ https://s5.mexside.net:1936/lsac/lsac/playlist.m3u8
 https://s5.mexside.net:1936/envio2/envio2/playlist.m3u8
 #EXTINF:-1 tvg-id="BAMOSTV.mx@SD" tvg-logo="https://i.imgur.com/ntK4D64.png" group-title="México" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",BAMOS TV (1080p) [Not 24/7]
 https://video2.getstreamhosting.com:19360/8092/8092.m3u8
-#EXTINF:-1 tvg-id="Canal10Durango.mx@SD" tvg-logo="https://i.imgur.com/H34quHQ.png" group-title="México" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Canal 10 Durango (1080p)
-https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal11delaCosta.ar" tvg-logo="https://i.imgur.com/yYExcq1.jpg" group-title="México" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Canal 11 de la Costa (720p)
 https://vivo.solumedia.com:19360/dadaproductora/dadaproductora.m3u8
 #EXTINF:-1 tvg-id="Canal11TuTV.sv@SD" tvg-logo="https://i.imgur.com/itqQEux.png" group-title="México" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Canal 11 TuTV (349p)
@@ -2472,6 +2464,8 @@ https://5ca3e84a76d30.streamlock.net/cbtv/videoc3b3t3v3/playlist.m3u8
 https://stream.crealatv.com/live.m3u8
 #EXTINF:-1 tvg-id="Canal.Distrito.Comedia.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/960px-DistritoComediaLOGO2018.png" group-title="México" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Distrito Comedia (1080p)
 http://138.121.15.230:9002/DISTRITO-COMEDIA/index.m3u8
+#EXTINF:-1 tvg-id="EclipseTV.mx@SD" tvg-logo="https://i.imgur.com/GiDD8xG.jpg" group-title="México" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Eclipse TV (720p)
+https://vdo6.instainternet.com:3272/live/jobetalborezlive.m3u8
 #EXTINF:-1 tvg-id="ExpresaTV.mx@SD" tvg-logo="https://i.imgur.com/kFVVGrg.png" group-title="México" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Expresa TV (720p)
 https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="IcrtvColima.mx@SD" tvg-logo="https://i.imgur.com/iUks0ot.png" group-title="México" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Icrtv Colima (1080p)
@@ -2489,8 +2483,6 @@ http://168.196.127.137:6001/play/a070/index.m3u8
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 #EXTINF:-1 tvg-id="MonteMaria.mx@SD" tvg-logo="https://i.imgur.com/0rMHbbM.png" group-title="México" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Monte Maria (1080p)
 https://5ca9af4645e15.streamlock.net/montemaria/videomontemaria/playlist.m3u8
-#EXTINF:-1 tvg-id="NayaritComunica.mx@SD" tvg-logo="https://i.imgur.com/aZCTkjU.jpg" group-title="México" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Nayarit Comunica (1080p)
-https://live.iplanay.gob.mx/hls/nayarittv.m3u8
 #EXTINF:-1 tvg-id="NueveTV.mx@SD" tvg-logo="https://i.imgur.com/3fzB7zY.png" group-title="México" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Nueve TV (720p)
 https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
 #EXTINF:-1 tvg-id="Panico.cr" tvg-logo="https://i.imgur.com/XOJzlfS.png" group-title="México" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Panico (576p)
@@ -2534,6 +2526,8 @@ https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8
 https://5fc584f3f19c9.streamlock.net/tvmarlapaz/smil:tvmarlapaz.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMarLosCabos.mx@SD" tvg-logo="https://i.imgur.com/z9iVlMn.png" group-title="México" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",TV Mar Los Cabos (1080p)
 https://5fc584f3f19c9.streamlock.net/tvmarloscabos/smil:tvmarloscabos.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMarPuertoVallarta.mx@SD" tvg-logo="https://i.imgur.com/z9iVlMn.png" group-title="México" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",TV Mar Puerto Vallarta (1080p)
+https://5ca9af4645e15.streamlock.net/tvmarvallarta/videotvmarvallarta/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMigrante.mx@SD" tvg-logo="https://i.imgur.com/tVgkiJF.png" group-title="México" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",TV Migrante (720p)
 https://s5.mexside.net:1936/tvmigrante/tvmigrante/playlist.m3u8
 #EXTINF:-1 tvg-id="TVUG.mx@SD" tvg-logo="https://i.imgur.com/pxkDpTU.jpeg" group-title="México" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",TV UG (1080p) [Not 24/7]
@@ -2626,8 +2620,6 @@ https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8
 https://copacotf.desdeparaguay.net/e40tv/e40tv_py_alta/playlist.m3u8?admin=tvaccion
 #EXTINF:-1 tvg-id="ElSolNetworkTV.ec@SD" tvg-logo="https://i.imgur.com/TIH3zlP.png" group-title="Música" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",El Sol Network TV (1080p)
 https://tv.wracanal10.com:3025/live/elsoltvlive.m3u8
-#EXTINF:-1 tvg-id="EnerGeekRadio.cl@SD" tvg-logo="https://cdn.energeek.cl/logos/EG-Radio-2025_pfp.png" group-title="Música" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",EnerGeek Radio (720p) [Geo-blocked]
-https://cl-2.backend.energeek.cl/bkp/egradio/mobile/index.m3u8?token=IPTVgh26
 #EXTINF:-1 tvg-id="Canal.Exa.TV.mx" tvg-logo="https://i.imgur.com/JWOqr1a.png" group-title="Música" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Exa TV
 http://190.61.90.17:40000/play/a0hk/index.m3u8
 #EXTINF:-1 tvg-id="FabulosaEstereo1005FM.pa@SD" tvg-logo="https://i.imgur.com/YFmzkOp.png" group-title="Música" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Fabulosa Estereo 100.5 FM (720p)
@@ -2703,16 +2695,8 @@ https://movil.ejeserver.com/live/masmusica.m3u8
 https://vs20.live.opencaster.com/metaleitortv_423d3342/index.m3u8
 #EXTINF:-1 tvg-id="MetropoliMediosTV.ec@SD" tvg-logo="https://i.imgur.com/yID5T2S.jpg" group-title="Música" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Metropoli Medios TV (720p)
 https://eu1.servers10.com:8081/8214/index.m3u8
-#EXTINF:-1 tvg-id="MiMusicaReggaeton.us@SD" tvg-logo="https://i.imgur.com/MMb9u4u.png" group-title="Música" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Mi Musica Reggaeton (1080p)
-http://181.78.12.119:16123/play/ch53/index.m3u8
-#EXTINF:-1 tvg-id="MiMusicaRomantica.us@SD" tvg-logo="https://i.imgur.com/eIaRv0U.png" group-title="Música" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Mi Musica Romantica (1080p)
-http://181.78.12.119:16123/play/ch54/index.m3u8
-#EXTINF:-1 tvg-id="MiMusicaSalsa.us@SD" tvg-logo="https://i.imgur.com/sT91t83.png" group-title="Música" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Mi Musica Salsa (1080p)
-http://181.78.12.119:16123/play/ch55/index.m3u8
 #EXTINF:-1 tvg-id="MielTV.pe@SD" tvg-logo="https://i.imgur.com/dPSFrCs.png" group-title="Música" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Miel TV (720p)
 https://live-evg5.tv360.bitel.com.pe/bitel/mieltvSRT/playlist.m3u8
-#EXTINF:-1 tvg-id="Millenium109FM.pe@SD" tvg-logo="https://i.imgur.com/sfNL6Bv.png" group-title="Música" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Millenium 109 FM
-https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8
 #EXTINF:-1 tvg-id="MontonesTV.do@HD" tvg-logo="https://montonestv.com/wp-content/uploads/2025/11/montones-logo.png" group-title="Música" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Montones TV (1080p)
 https://lbgo.bozztv.com/ssh101/ssh101/montonestv1/playlist.m3u8
 #EXTINF:-1 tvg-id="5d14fd1a252d35decbc4080c" tvg-logo="https://images.pluto.tv/channels/6047fbdbbb776a0007e7f2ff/colorLogoPNG.png" group-title="Música" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",MTV Biggest Pop LatAm (1080p)
@@ -2745,6 +2729,8 @@ https://jmp2.uk/plu-5fab088b3279760007d4e4fd.m3u8
 https://jmp2.uk/plu-5de91b7ea86ee60009d89e75.m3u8
 #EXTINF:-1 tvg-id="64f9cccf110545000837912e" tvg-logo="https://images.pluto.tv/channels/68641eb4852dfe78698c3390/colorLogoPNG_1751392300412.png" group-title="Música" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",MTV Ridiculousness (United States) LatAm (720p)
 https://jmp2.uk/plu-5e98a911c881310007d7aae2.m3u8
+#EXTINF:-1 tvg-id="66a01e07d2d50d0008100d6a" tvg-logo="https://images.pluto.tv/channels/66a01e07d2d50d0008100d6a/colorLogoPNG.png" group-title="Música" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",MTV Rocks LatAm
+https://jmp2.uk/plu-66a01b52a4ee27000808ea36.m3u8
 #EXTINF:-1 tvg-id="604f81a49ef73300070e554f" tvg-logo="https://images.pluto.tv/channels/620fd9f4afb9a80007a9c6d5/colorLogoPNG.png" group-title="Música" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",MTV Teen Mom (United States) (720p)
 https://jmp2.uk/plu-620fd9f4afb9a80007a9c6d5.m3u8
 #EXTINF:-1 tvg-id="MTVVerguenzaajena.de@ES" tvg-logo="https://images.pluto.tv/channels/63eb9495a8b227000841bf64/colorLogoPNG.png" group-title="Música" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",MTV Verguenza ajena (720p)
@@ -2775,6 +2761,8 @@ https://cloudvideo.servers10.com:8081/8154/index.m3u8
 https://eu1.servers10.com:8081/8116/index.m3u8
 #EXTINF:-1 tvg-id="RadioChalaca.pe@SD" tvg-logo="https://i.imgur.com/9A6DBG7.png" group-title="Música" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Radio Chalaca
 https://servilive.com:3414/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="RadioClasicaTV.bo@SD" tvg-logo="https://radioclasicapotosi.com/players/nexoplayer/assets/logo.png" group-title="Música" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Radio Clasica TV (720p)
+https://ares.disfrutaenlared.com:1936/clasica/clasica/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioColmenar925FM.py@SD" tvg-logo="https://i.imgur.com/LniNLO1.jpeg" group-title="Música" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Radio Colmenar 92.5 FM
 https://tvdatta.com:3041/live/colmenarlive.m3u8
 #EXTINF:-1 tvg-id="RadioConexionWebTV.ar@SD" tvg-logo="https://i.imgur.com/pXS38zo.png" group-title="Música" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Radio Conexion Web TV (720p)
@@ -2785,14 +2773,14 @@ https://eu1.servers10.com:8081/8074/index.m3u8
 https://mdstrm.com/live-stream-playlist/67ed8a8d6db4af9a0188555c.m3u8
 #EXTINF:-1 tvg-id="RadioEdelweiss.cl@SD" tvg-logo="https://cdn.m3u.cl/logo/1313_Radio_Edelweiss.png" group-title="Música" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Radio Edelweiss (720p)
 https://vmix.dyndns.biz/Edelweiss/index.m3u8
+#EXTINF:-1 tvg-id="RadioFantastica989FM.ec@SD" tvg-logo="https://i.imgur.com/mpcIbrH.jpg" group-title="Música" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Radio Fantastica 98.9 FM (1080p)
+http://190.107.232.9:8082/livestream/stream.m3u8
 #EXTINF:-1 tvg-id="RadioIdeal.hn@SD" tvg-logo="https://i.imgur.com/chPfoOs.png" group-title="Música" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Radio Ideal (720p) [Not 24/7]
 https://www.idealfm104-7.com/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="RadioLaSerenaTV.cl@SD" tvg-logo="https://i.imgur.com/65ftM3v.png" group-title="Música" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Radio La Serena TV (720p)
 https://5ff3d9babae13.streamlock.net/chrgkqgkyb/chrgkqgkyb/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioMaster.pe@HD" tvg-logo="https://i.imgur.com/AUoxyzP.png" group-title="Música" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Radio Master (720p)
 https://videoserver.tmcreativos.com:19360/radiomaster/radiomaster.m3u8
-#EXTINF:-1 tvg-id="RadioMonumentalTV.ec@SD" tvg-logo="https://i.imgur.com/a97MaV2.png" group-title="Música" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Radio Monumental TV (720p) [Not 24/7]
-https://cloud37.ecuatel.com/monumentaltv/live/manifest.m3u8
 #EXTINF:-1 tvg-id="RadioOndaDigital.pe@SD" tvg-logo="https://i.imgur.com/Lid5RTv.png" group-title="Música" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Radio Onda Digital (1080p)
 https://live.ondadigitaltv.com/RADIOODTV/index.m3u8
 #EXTINF:-1 tvg-id="RadioPudahuel.cl@SD" tvg-logo="https://cdn.m3u.cl/logo/429_Pudahuel_FM.png" group-title="Música" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Radio Pudahuel (720p)
@@ -2807,12 +2795,6 @@ https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
 https://live.tvcontrolcp.com:8081/radiozona/index.m3u8
 #EXTINF:-1 tvg-id="RadiolaTV.co@SD" tvg-logo="https://i.imgur.com/3AXjotA.jpg" group-title="Música" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Radiola TV (1080p)
 http://158.172.217.18:8000/play/a01k/index.m3u8
-#EXTINF:-1 tvg-id="RanchenatoTV.co@SD" tvg-logo="https://i.imgur.com/TCv5NqN.png" group-title="Música" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Ranchenato TV (1080p)
-http://181.78.12.119:16123/play/ch15/index.m3u8
-#EXTINF:-1 tvg-id="RetroPlus.cl@SD" tvg-logo="https://i.imgur.com/fkCasXI.png" group-title="Música" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Retro Plus (1080p)
-http://181.119.97.124:8080/play/a00t/index.m3u8
-#EXTINF:-1 tvg-id="RetroPlus2.cl@SD" tvg-logo="https://i.imgur.com/5G5kian.png" group-title="Música" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Retro Plus 2 (1080p)
-http://181.119.97.124:8080/play/a00n/index.m3u8
 #EXTINF:-1 tvg-id="RetromusicaTelevision.cl@SD" tvg-logo="https://cdn.m3u.cl/logo/1765_Retromusica_Television.png" group-title="Música" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Retromusica Television (720p)
 https://vdochile.com:3864/stream/play.m3u8
 #EXTINF:-1 tvg-id="Rewind.TV.us2" tvg-logo="https://i.imgur.com/OG0RC2e.png" group-title="Música" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Rewind TV (1080p)
@@ -2823,8 +2805,6 @@ https://eu1.servers10.com:8081/8090/index.m3u8
 https://streaming.purum.cl/ritoquetv/index.m3u8
 #EXTINF:-1 tvg-id="RockPop.ar@SD" tvg-logo="https://fmrockandpop.com/images/ryp/R&P_Logo_web_207x112px.png" group-title="Música" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Rock & Pop (1080p)
 http://190.128.214.97:64333/play/a032/index.m3u8
-#EXTINF:-1 tvg-id="RTVVida.es@SD" tvg-logo="https://i.imgur.com/EqUfEAh.png" group-title="Música" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",RTV Vida (1080p)
-https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
 #EXTINF:-1 tvg-id="RumbaTV.co@SD" tvg-logo="https://i.imgur.com/WtVpWwI.png" group-title="Música" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Rumba TV
 http://186.148.196.100:8000/play/a02h
 #EXTINF:-1 tvg-id="RumbaMixTV.pe@SD" tvg-logo="https://i.imgur.com/rwA3HIp.png" group-title="Música" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",RumbaMix TV (720p)
@@ -3018,6 +2998,8 @@ http://23.237.104.106:8080/USA_HLN/index.m3u8
 https://streaming.icndigital.com/live_output/icn_live_stream_1.m3u8
 #EXTINF:-1 tvg-id="LatinaNoticias247.pe@SD" tvg-logo="https://assets.rudo.video/assets/latina/live/logoApi_4b43aad719f5bbf7aa2813c2199e6e3e1755620584.png" group-title="Noticias" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Latina Noticias 24/7 (1080p)
 https://dai.google.com/linear/hls/event/oYQGDqEGTmGdHE_fz9oLlg/master.m3u8
+#EXTINF:-1 tvg-id="LeMondeen24h.cd@SD" tvg-logo="https://i.imgur.com/2igwi7g.png" group-title="Noticias" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Le Monde en 24h
+https://stream.berosat.live/hls/monde24h-tv-index/monde24h-tv-index.m3u8
 #EXTINF:-1 tvg-id="LencaTV.hn@SD" tvg-logo="https://i.imgur.com/fc5IHSy.png" group-title="Noticias" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Lenca TV (720p) [Not 24/7]
 https://lencatelevision.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="LinierosTV.do@SD" tvg-logo="https://i.imgur.com/bLutjkf.png" group-title="Noticias" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Linieros TV (480p) [Not 24/7]
@@ -3026,9 +3008,7 @@ https://soportedvb.click:3017/live/linierostvlive.m3u8
 http://181.209.91.106:2222/Live/120e4c580311c6685df90ec4dca2c0b1/lntv.playlist.m3u8
 #EXTINF:-1 tvg-id="M95TelevisionMarbella.es@SD" tvg-logo="https://i.imgur.com/RzAkP1V.png" group-title="Noticias" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",M95 Television Marbella (1080p) [Not 24/7]
 https://limited2.todostreaming.es/live/m95-livestream.m3u8
-#EXTINF:-1 tvg-id="MayaTV.hn@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Maya_TV_logo.png/960px-Maya_TV_logo.png" group-title="Noticias" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Maya TV
-https://media.streambrothers.com:19360/8036/8036.m3u8
-#EXTINF:-1 tvg-id="Canal.La.Tele.(Paraguay).ar" tvg-logo="https://i.imgur.com/CaA7l86.png" group-title="Noticias" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Mega TV (Paraguay) (1080p)
+#EXTINF:-1 tvg-id="Canal.SNT.(Paraguay).ar" tvg-logo="https://i.imgur.com/CaA7l86.png" group-title="Noticias" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Mega TV (Paraguay) (1080p)
 https://www.desde-paraguay.com/mega.m3u8
 #EXTINF:-1 tvg-id="MeganoticiasAhora.cl@SD" tvg-logo="https://i.imgur.com/JCVEqTc.png" group-title="Noticias" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Meganoticias Ahora (1080p)
 http://15.204.196.147:22880/MEGANOTICIA-MEGAMEDIA-EE.UU-PROVEEDOR/video.m3u8
@@ -3092,7 +3072,7 @@ https://www.streaming507.net:19360/anconvideo/anconvideo.m3u8
 https://59d39900ebfb8.streamlock.net/rcv/rcv/playlist.m3u8
 #EXTINF:-1 tvg-id="RDN.do@SD" tvg-logo="https://i.imgur.com/x02CGSW.png" group-title="Noticias" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",RDN (1080p) [Not 24/7]
 https://edge.essastream.com/rdntv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="RedPlus.co@SD" tvg-logo="https://i.imgur.com/kuqkTMC.png" group-title="Noticias" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Red+ (1080p)
+#EXTINF:-1 tvg-id="GLOBAL.(RED.TV).pe" tvg-logo="https://i.imgur.com/kuqkTMC.png" group-title="Noticias" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Red+ (1080p)
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHDWEB)/master.m3u8
 #EXTINF:-1 tvg-id="RNN.do@SD" tvg-logo="https://i.imgur.com/12Z9qPw.png" group-title="Noticias" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",RNN (720p) [Not 24/7]
 https://2-fss-2.streamhoster.com/pl_138/206532-6829902-1/playlist.m3u8
@@ -3135,13 +3115,13 @@ https://edge.enhdtv.com/8190/index.m3u8
 https://amixtv.com:8081/unetvhn/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Canal.Unicanal.sv" tvg-logo="https://i.imgur.com/cgTD2TW.png" group-title="Noticias" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Unicanal
 http://45.170.130.224:8000/play/a04y/index.m3u8?hls
+#EXTINF:-1 tvg-id="Unifranz.bo@HD" tvg-logo="https://unifranz.edu.bo/wp-content/themes/unifranz-web/public/images/logos/logo-light-min.442cee.svg" group-title="Noticias" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Unifranz (720p)
+https://edge.enhdtv.com/8192/index.m3u8
 #EXTINF:-1 tvg-id="VIVETV.ar@HD" tvg-logo="https://raw.githubusercontent.com/vivetvargentina/vive-tv/main/Logo%20512x512-04.png" group-title="Noticias" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",VIVE TV (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://vivo.solumedia.com:19360/vivetv/vivetv.m3u8
 #EXTINF:-1 tvg-id="VNP.pe@SD" tvg-logo="https://i.imgur.com/TOnknEW.png" group-title="Noticias" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",VNP
 https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
-#EXTINF:-1 tvg-id="3ABNLatino.us@SD" tvg-logo="https://i.imgur.com/Ugb4AFo.png" group-title="Otros" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",3ABN Latino (1080p)
-http://138.59.177.78:9999/play/a0a3/index.m3u8
 #EXTINF:-1 tvg-id="6WiseTv.us@SD" group-title="Otros" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",6 Wise Tv (720p)
 https://live.enhdtv.com:8081/8150/index.m3u8
 #EXTINF:-1 tvg-id="ARCanal.pa@SD" tvg-logo="https://i.imgur.com/ejRJqSI.png" group-title="Otros" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",A&R Canal (720p)
@@ -3203,6 +3183,8 @@ https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 https://cdn.oktvus.com/ConectadoConDios/tracks-v2a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="ConexionPositivaTelevision.cr@HD" tvg-logo="https://i.ibb.co/HSSyRDs/conexion-positiva.png" group-title="Otros" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Conexion Positiva Television
 https://tvstream.conexionpositivaradio.com/memfs/69239c4d-4116-4f4f-b065-bf17e81b1411.m3u8
+#EXTINF:-1 tvg-id="CristoVisionCanal31.cr@SD" tvg-logo="https://i.imgur.com/CFXZ8j0.png" group-title="Otros" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Cristo Vision Canal 31
+https://3a310f6ec721e6b362fcd22772b57f36a2fe6bb2.tabeelcr.com:8080/cristovision31/iptv.m3u8
 #EXTINF:-1 tvg-id="CruzTV.us@SD" tvg-logo="https://i.imgur.com/qOO2SaH.png" group-title="Otros" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Cruz TV
 https://reflect-communitytv.cablecast.tv/live-4/live/stream-2/live.m3u8
 #EXTINF:-1 tvg-id="CSIenespanol.us@SD" tvg-logo="https://i.imgur.com/ifarQil.png" group-title="Otros" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",CSI en espanol
@@ -3232,10 +3214,14 @@ https://iptv.bitred.cl/ELGOURMET_HD/index.m3u8
 https://5bf8041cb3fed.streamlock.net/PuertoTV/PuertoTV/playlist.m3u8
 #EXTINF:-1 tvg-id="ElSembradorNuevaEvangelizacionESNE.us@SD" tvg-logo="https://i.imgur.com/APhSi1Y.jpg" group-title="Otros" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",El Sembrador Nueva Evangelizacion ESNE
 http://190.61.90.17:40000/play/a025/index.m3u8
+#EXTINF:-1 tvg-id="EnlaceJuvenil.cr@SD" tvg-logo="https://i.imgur.com/GfpPQ5D.png" group-title="Otros" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Enlace Juvenil
+https://livecdnusa.enlace.plus/ejtv/smil:ejtv-hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="EscuchameRadioTV.ni@SD" tvg-logo="https://i.imgur.com/gt6UvG8.png" group-title="Otros" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Escuchame Radio TV (720p) [Not 24/7]
 https://stmv1.transmissaodigital.com/pedro9800/pedro9800/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal.Warner.TV.(Costa.Rica).cr" tvg-logo="https://i.imgur.com/E9AuhOU.png" group-title="Otros" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Extrema TV (Costa Rica) (720p)
 https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 tvg-id="FamiliaVisionHD.pr@SD" tvg-logo="https://i.imgur.com/uqTH7m5.jpg" group-title="Otros" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Familia Vision HD [Not 24/7]
+https://584097344c1f0.streamlock.net/29/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="FarodeSantidadTV.pr@SD" tvg-logo="https://i.imgur.com/GoNBFzI.png" group-title="Otros" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Faro de Santidad TV (720p)
 https://5dbcd1053301e.streamlock.net:4443/farodesantidad/farodesantidad/playlist.m3u8
 #EXTINF:-1 tvg-id="FierroaFondoTV.us@SD" tvg-logo="https://pbs.twimg.com/profile_images/1903618079696773120/maQJpd9__400x400.jpg" group-title="Otros" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Fierro a Fondo TV (1080p)
@@ -3264,8 +3250,6 @@ https://s.emisoras.tv:8081/kerussotv/index.m3u8
 https://2-fss-2.streamhoster.com/pl_138/200226-1359204-1/playlist.m3u8
 #EXTINF:-1 tvg-id="KSCE383.us@HD" tvg-logo="https://i.imgur.com/P0vZXU0.png" group-title="Otros" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",KSCE 38.3 (360p)
 https://2-fss-1.streamhoster.com/pl_122/200226-1427780-1/playlist.m3u8
-#EXTINF:-1 tvg-id="LaVozdeJesusHD.do@HD" tvg-logo="https://gia.tv/streams/pstream/208429.png" group-title="Otros" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",La Voz de Jesus HD (720p)
-https://live20.bozztv.com/giatvplayout7/giatv-208429/playlist.m3u8
 #EXTINF:-1 tvg-id="LaVozdeMaria.do@SD" tvg-logo="https://i.imgur.com/Zv8CxZX.png" group-title="Otros" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",La Voz de Maria (720p)
 https://live.lavozdemaria.com:3436/live/lavozdemarialive.m3u8
 #EXTINF:-1 tvg-id="LivingFaithTV.us@SD" tvg-logo="https://i.imgur.com/FuNpesJ.png" group-title="Otros" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Living Faith TV (540p)
@@ -3309,6 +3293,8 @@ https://s.emisoras.tv:8081/penielbibliaabierta/index.m3u8
 https://cdn3.wowza.com/5/bGZUOHp2TnhudnM2/phoenix/G1498_006/playlist.m3u8
 #EXTINF:-1 group-title="Otros" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Pogo 97.3 - Rock Nacional
 https://01.solumedia.com.ar:8340/stream
+#EXTINF:-1 tvg-id="PuraPalabra.pr@SD" tvg-logo="https://i.imgur.com/nl5vyIw.png" group-title="Otros" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Pura Palabra (718p) [Not 24/7]
+https://59825a54e4454.streamlock.net:8443/william233/william233/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioFiestadeMilagrosTV.hn@SD" tvg-logo="https://i.imgur.com/hqYPAYL.png" group-title="Otros" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Radio Fiesta de Milagros TV (1080p)
 https://tv.webmedialive.com/fiestatv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioHogar.pa@SD" tvg-logo="https://i.imgur.com/P4A1Zwl.jpg" group-title="Otros" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Radio Hogar (720p)
@@ -3335,7 +3321,7 @@ https://live.dionelysterrero.com/senalestv/stream.m3u8
 https://stream.arcast.com.ar/somosnoticias/somosnoticias/playlist.m3u8
 #EXTINF:-1 tvg-id="SophiaTVEspanol.de@SD" tvg-logo="https://i.imgur.com/T2JPCq2.png" group-title="Otros" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Sophia TV Espanol (720p)
 https://bild-und-ton.stream/sophiatv-es/smil:sophia-tv-es.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Starz.(Pacific).us2" tvg-logo="https://i.imgur.com/N7oSm4d.png" group-title="Otros" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Starz West (720p)
+#EXTINF:-1 tvg-id="Starz.HD.us2" tvg-logo="https://i.imgur.com/N7oSm4d.png" group-title="Otros" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Starz West (720p)
 http://23.237.104.106:8080/USA_STARZ_WEST/index.m3u8
 #EXTINF:-1 tvg-id="STVETelebasica.hn@SD" tvg-logo="https://i.imgur.com/nUsq67m.png" group-title="Otros" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",STVE Telebasica (1080p)
 https://streamingcws30.com/suyapa/videosuyapa/playlist.m3u8
@@ -3354,8 +3340,6 @@ http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleBendicion.do@SD" tvg-logo="https://i.imgur.com/nh4sNVI.png" group-title="Otros" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",TeleBendicion (720p) [Not 24/7]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36
 https://ss2.tvrdomi.com:1936/telebendicion/telebendicion/playlist.m3u8
-#EXTINF:-1 tvg-id="Teleceiba.hn@SD" tvg-logo="https://i.imgur.com/oPSfsvy.png" group-title="Otros" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Teleceiba (1080p)
-http://45.238.141.222:8000/play/a0pf/index.m3u8
 #EXTINF:-1 tvg-id="Canal.Antigua.(Guatemala).sv" tvg-logo="https://www.telecostaescuintla.com/gallery_gen/f57408fa00aca6d969248be4b56b48e6.png" group-title="Otros" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Telecosta (Guatemala) (720p)
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 #EXTINF:-1 tvg-id="TeleJunin.ar" tvg-logo="https://i.imgur.com/5X8gdCv.png" group-title="Otros" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",TeleJunín (576p)
@@ -3397,7 +3381,7 @@ https://k20.usastreams.com:8081/tvsur/index.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/tvcaelsalvador/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSRetro.gt@SD" tvg-logo="https://i.imgur.com/jdnHci0.png" group-title="Otros" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",TVS Retro (720p)
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
-#EXTINF:-1 tvg-id="UniMas.HD.(Pacific).us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/960px-Logo_UniM%C3%A1s_2021.svg.png" group-title="Otros" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",UniMas KFTR-DT [Geo-blocked]
+#EXTINF:-1 tvg-id="UniMas.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/960px-Logo_UniM%C3%A1s_2021.svg.png" group-title="Otros" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",UniMas KFTR-DT [Geo-blocked]
 https://streaming-live-fcdn.api.prd.univisionnow.com/kftr/kftr.isml/hls/kftr.m3u8
 #EXTINF:-1 tvg-id="VeaCanal.gt@SD" tvg-logo="https://i.imgur.com/oPJlbNf.png" group-title="Otros" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Vea Canal (720p)
 http://181.78.106.127:5000/play/ca090/index.m3u8
@@ -3449,7 +3433,7 @@ https://video.hostingcaaguazu.com:19360/delreytv/delreytv.m3u8
 http://190.128.214.97:64333/play/a011/index.m3u8
 #EXTINF:-1 tvg-id="InvasivaTV.py@SD" tvg-logo="https://i.imgur.com/R9E6jEC.png" group-title="Paraguay" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Invasiva TV (720p)
 https://tv-omega-nine.vercel.app/hls/live.m3u8
-#EXTINF:-1 tvg-id="LA.TELE.PERU.(La.Tele).pe" tvg-logo="https://i.imgur.com/Qcf6Qev.png" group-title="Paraguay" http-referrer="https://www.latele.com.py/en-vivo" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Latele (1080p)
+#EXTINF:-1 tvg-id="Canal.La.Tele.(Paraguay).ar" tvg-logo="https://i.imgur.com/Qcf6Qev.png" group-title="Paraguay" http-referrer="https://www.latele.com.py/en-vivo" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Latele (1080p)
 https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion
 #EXTINF:-1 tvg-id="MiTV.py@SD" tvg-logo="https://i.imgur.com/sgrEt9z.png" group-title="Paraguay" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",MiTV (1080p)
 http://190.128.214.97:64333/play/a02w/index.m3u8
@@ -3457,13 +3441,13 @@ http://190.128.214.97:64333/play/a02w/index.m3u8
 https://copacogen.desdeparaguay.net/monumentaltv/monumentaltv_alta/playlist.m3u8?admin=tvaccion
 #EXTINF:-1 tvg-id="NandejaraNeeTV.py@SD" tvg-logo="https://i.imgur.com/VFxuBdL.jpg" group-title="Paraguay" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Nandejara Ne'e TV
 https://copacogen.desdeparaguay.net/nandejaraneetv/nandejaraneetv/playlist.m3u8?admin=tvaccion
-#EXTINF:-1 tvg-id="Canal.La.Tele.(Paraguay).ar" tvg-logo="https://i.imgur.com/u9umNKp.jpeg" group-title="Paraguay" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Oasis TV (Paraguay) (720p)
+#EXTINF:-1 tvg-id="Canal.SNT.(Paraguay).ar" tvg-logo="https://i.imgur.com/u9umNKp.jpeg" group-title="Paraguay" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Oasis TV (Paraguay) (720p)
 https://video.hostingcaaguazu.com:19360/oasistv/oasistv.m3u8
 #EXTINF:-1 tvg-id="OccidentalTV.py@SD" tvg-logo="https://i.imgur.com/8IRBA9h.png" group-title="Paraguay" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Occidental TV
 https://video.wilohosting.com:19360/occidentaltv/occidentaltv.m3u8
 #EXTINF:-1 tvg-id="OviedoTV.py@SD" tvg-logo="https://i.imgur.com/6OlfgSQ.png" group-title="Paraguay" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Oviedo TV
 https://video.wilohosting.com:19360/oviedotv/oviedotv.m3u8
-#EXTINF:-1 tvg-id="Canal.La.Tele.(Paraguay).ar" tvg-logo="https://i.imgur.com/TWnTZ3c.png" group-title="Paraguay" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Paraguay TV (1080p)
+#EXTINF:-1 tvg-id="Canal.SNT.(Paraguay).ar" tvg-logo="https://i.imgur.com/TWnTZ3c.png" group-title="Paraguay" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Paraguay TV (1080p)
 https://stream.paraguaytv.gov.py/memfs/bbe36fed-9b49-4d1d-adaa-4bd6d1b2e386.m3u8
 #EXTINF:-1 tvg-id="Paravision.py@SD" tvg-logo="https://i.imgur.com/yd9Dw2G.png" group-title="Paraguay" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Paravision
 http://45.170.130.224:8000/play/a032/index.m3u8?hls
@@ -3475,6 +3459,8 @@ https://tvdatta.com:3991/live/guairatvlive.m3u8
 #EXTVLCOPT:http-referrer=https://iblups.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://video.wilohosting.com:19360/radiotvelarcadelpacto/radiotvelarcadelpacto.m3u8
+#EXTINF:-1 tvg-id="RBTV.py@SD" tvg-logo="https://i.imgur.com/EMFAFX0.png" group-title="Paraguay" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",RB TV (1080p)
+https://video.hostingcaaguazu.com:19360/rbtv/rbtv.m3u8
 #EXTINF:-1 tvg-id="RCCTV.py@SD" tvg-logo="https://i.imgur.com/qdjBnRl.png" group-title="Paraguay" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",RCC TV (1080p) [Not 24/7]
 https://copacoradios.desdeparaguay.net/rcctv/rcctv/playlist.m3u8?admin=nacion
 #EXTINF:-1 tvg-id="RedDigital.py@SD" tvg-logo="https://i.imgur.com/3jj0MQP.jpg" group-title="Paraguay" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Red Digital (1080p) [Not 24/7]
@@ -3487,11 +3473,9 @@ https://video.hostingcaaguazu.com:19360/regionaltv/regionaltv.m3u8
 https://rds3.desdeparaguay.net/republicatv/republicatv/playlist.m3u8
 #EXTINF:-1 tvg-id="SURTVItapua.py@SD" tvg-logo="https://i.imgur.com/ltJQvZd.png" group-title="Paraguay" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",SUR TV Itapua
 http://45.170.130.224:8000/play/a036/index.m3u8?hls
-#EXTINF:-1 tvg-id="Canal.Telefuturo.sv" tvg-logo="https://i.imgur.com/QpnctoU.png" group-title="Paraguay" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Telefuturo (Dominican Republic) (480p) [Not 24/7]
-http://190.122.104.210:5080/LiveApp/streams/tfuturo.m3u8
-#EXTINF:-1 tvg-id="Canal.La.Tele.(Paraguay).ar" tvg-logo="https://i.imgur.com/6lVrFvb.png" group-title="Paraguay" http-referrer="https://www.telefuturo.com.py" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Telefuturo (Paraguay) (1080p)
+#EXTINF:-1 tvg-id="Canal.SNT.(Paraguay).ar" tvg-logo="https://i.imgur.com/6lVrFvb.png" group-title="Paraguay" http-referrer="https://www.telefuturo.com.py" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Telefuturo (Paraguay) (1080p)
 https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal.La.Tele.(Paraguay).ar" tvg-logo="https://i.imgur.com/cgIv5QK.png" group-title="Paraguay" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Trece (Paraguay)
+#EXTINF:-1 tvg-id="Canal.SNT.(Paraguay).ar" tvg-logo="https://i.imgur.com/cgIv5QK.png" group-title="Paraguay" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Trece (Paraguay)
 http://45.170.130.224:8000/play/a050/index.m3u8?hls
 #EXTINF:-1 tvg-id="TVAire.py@SD" tvg-logo="https://i.imgur.com/7gHFKPZ.png" group-title="Paraguay" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",TV Aire (1080p)
 http://190.128.214.97:64333/play/a05y/index.m3u8
@@ -3505,6 +3489,8 @@ https://video.hostingcaaguazu.com:19360/uniradiotv/uniradiotv.m3u8
 https://copacogen.desdeparaguay.net/villaelisatv/villaelisatv/playlist.m3u8?admin=nacion
 #EXTINF:-1 tvg-id="61b790b985706b00072cb797" tvg-logo="https://i.imgur.com/Pvid2iH.png" group-title="Películas" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Adrenalina Pura TV (720p)
 https://jmp2.uk/plu-61b793ccf571b80007b7a610.m3u8
+#EXTINF:-1 tvg-id="AlternaTV.ar@SD" tvg-logo="https://tv.alterna.ar/alternatv.png" group-title="Películas" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",AlternaTV (720p) [Not 24/7]
+https://tv.alterna.ar/stream/hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VI---AMC.png" group-title="Películas" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",AMC - CTV - CABA TV Cable - CD Cd Aut Bs As
 https://radiosargentina.com.ar/php/artvDI.php?id=ARCD_CABA_____CAMC_______
 #EXTINF:-1 tvg-id="AMCLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" group-title="Películas" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",AMC Latin America (1080p)
@@ -3574,14 +3560,8 @@ https://streaming.onnethn.com/HBO/playlist.m3u8
 #EXTINF:-1 tvg-id="HBOPlusLatinAmerica.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/960px-Logohboplus2019.svg.png" group-title="Películas" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",HBO+ Latin America (720p) [Geo-blocked]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 http://15.204.246.24:8080/HBOPlusHD/index.m3u8
-#EXTINF:-1 tvg-id="ImagenUniversalTV.do@SD" tvg-logo="https://i.imgur.com/DP6HmDV.png" group-title="Películas" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Imagen Universal TV
-https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
-#EXTINF:-1 tvg-id="Maxcine.us@HD" tvg-logo="https://gia.tv/streams/pptv/208138.png" group-title="Películas" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Maxcine (720p)
-https://live20.bozztv.com/giatvplayout7/giatv-208138/playlist.m3u8
 #EXTINF:-1 tvg-id="Maxcine2.us@HD" tvg-logo="https://gia.tv/streams/pptv/209163.png" group-title="Películas" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Maxcine 2 (720p)
 https://live20.bozztv.com/giatvplayout7/giatv-209163/playlist.m3u8
-#EXTINF:-1 tvg-id="MaxcineComedy.us@HD" tvg-logo="https://gia.tv/streams/pptv/208730.png" group-title="Películas" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Maxcine Comedy (720p)
-https://live20.bozztv.com/giatvplayout7/giatv-208730/playlist.m3u8
 #EXTINF:-1 tvg-id="MaxcineFamily.us@HD" tvg-logo="https://gia.tv/streams/pptv/208817.png" group-title="Películas" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Maxcine Family (720p)
 https://live20.bozztv.com/giatvplayout7/giatv-208817/playlist.m3u8
 #EXTINF:-1 tvg-id="MaxcineKids.us@HD" tvg-logo="https://gia.tv/streams/pptv/209909.png" group-title="Películas" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Maxcine Kids (720p)
@@ -3598,8 +3578,6 @@ http://168.196.127.137:6001/play/a08n/index.m3u8
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="plex.tv.MyTime.Movie.Network.plex" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="Películas" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",MyTime Movie Network (Spain) (1080p)
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="NextHD.py@SD" tvg-logo="https://i.imgur.com/c2rF3SS.png" group-title="Películas" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Next HD (480p)
-https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VINEOXTV.png" group-title="Películas" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Pelicula 1 - WebTV - Salta  TV - SA Salta
 https://radiosargentina.com.ar/php/artvDI.php?id=ARSASALTA___WEBPELICULA1_
 #EXTINF:-1 tvg-logo="https://radiosargentina.com.ar/png/VINEOXTV.png" group-title="Películas" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Pelicula 2 - WebTV - Salta  TV - SA Salta
@@ -3660,8 +3638,6 @@ https://jmp2.uk/plu-6385e82900ab2e000768a058.m3u8
 https://jmp2.uk/plu-65786888b228b7000843ad9a.m3u8
 #EXTINF:-1 tvg-id="PopcornCentral.mx@SD" tvg-logo="https://i.imgur.com/ULGVjyC.png" group-title="Películas" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Popcorn Central (1080p)
 https://oly-ftvpc.otteravision.com/oly/ftvpc/ftvpc.m3u8
-#EXTINF:-1 tvg-id="RadioUniversal.cl@SD" tvg-logo="https://cdn.m3u.cl/logo/390_Radio_Universal.png" group-title="Películas" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Radio Universal (720p)
-https://videostream.chileservidores.com:8081/universal/index.m3u8
 #EXTINF:-1 tvg-id="RakutenTVActionMovies.es@Spain" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Películas" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Rakuten TV Action Movies (1080p)
 https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8
 #EXTINF:-1 tvg-id="RakutenTVComedyMovies.es@Spain" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Películas" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Rakuten TV Comedy Movies (1080p)
@@ -3672,8 +3648,6 @@ https://a7089c89d85f453d850c4a1518b43076.mediatailor.eu-west-1.amazonaws.com/v1/
 https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8
 #EXTINF:-1 tvg-id="RakutenTVTopMovies.es@Spain" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Películas" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Rakuten TV Top Movies (1080p)
 https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
-#EXTINF:-1 tvg-id="RetroPlus3.cl@SD" tvg-logo="https://i.imgur.com/i0rZsgG.png" group-title="Películas" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Retro Plus 3 (1080p)
-http://181.119.97.124:8080/play/retroplus_3/index.m3u8
 #EXTINF:-1 tvg-id="RuntimeEspanol.us@SD" tvg-logo="https://i.imgur.com/OMQq19N.png" group-title="Películas" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Runtime Espanol (720p)
 https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8
 #EXTINF:-1 tvg-id="676e7b4a4bd636000819c6a7" tvg-logo="https://images.pluto.tv/channels/676e7b4a4bd636000819c6a7/colorLogoPNG_1748957675934.png" group-title="Películas" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",SensaCine TV x Pluto
@@ -3682,7 +3656,7 @@ https://jmp2.uk/plu-676e7b4a4bd636000819c6a7.m3u8
 http://138.121.15.230:9002/SONY/index.m3u8
 #EXTINF:-1 tvg-id="SonyChannelAndes.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png" group-title="Películas" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Sony Channel Andes (1080p)
 http://15.204.246.24:8080/SonyHD/index.m3u8
-#EXTINF:-1 tvg-id="Canal.TV.Chile.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" group-title="Películas" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Star Channel (Chile) (720p)
+#EXTINF:-1 tvg-id="Canal.Star.Channel.(Argentina).ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" group-title="Películas" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Star Channel (Chile) (720p)
 http://138.121.15.230:9002/STAR-CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="Canal.1.(Colombia).ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/960px-Star_Channel_2020.svg.png" group-title="Películas" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Star Channel (Colombia) (1080p)
 http://190.61.47.54:8000/play/a035/index.m3u8
@@ -3690,9 +3664,9 @@ http://190.61.47.54:8000/play/a035/index.m3u8
 http://15.204.246.24:8080/StudioUniversalHD/index.m3u8
 #EXTINF:-1 tvg-id="TCMLatinAmerica.us@Chile" tvg-logo="https://i.imgur.com/QpDkrmT.png" group-title="Películas" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",TCM Latin America Chile (1080p)
 https://streaming.onnethn.com/TCM_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="Canal.TNT.(México).mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png" group-title="Películas" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",TNT (United States) (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="Canal.TNT.(Argentina).ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png" group-title="Películas" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",TNT (United States) (720p) [Geo-blocked]
 https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="Canal.TNT.Novelas.(México).mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TNT_Novelas_2025.svg/1920px-TNT_Novelas_2025.svg.png" group-title="Películas" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",TNT Novelas (1080p)
+#EXTINF:-1 tvg-id="Canal.TNT.Novelas.(Argentina).ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TNT_Novelas_2025.svg/1920px-TNT_Novelas_2025.svg.png" group-title="Películas" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",TNT Novelas (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 http://190.93.224.42/TNT-NOVELAS/index.m3u8
 #EXTINF:-1 tvg-id="TVUniversalEcuador.ec@SD" tvg-logo="https://i.imgur.com/TIsk5zN.png" group-title="Películas" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",TV Universal Ecuador (720p)
@@ -3719,7 +3693,7 @@ https://live-evg8.tv360.bitel.com.pe/bitel/abctelevisionSRT/playlist.m3u8
 https://live-evg8.tv360.bitel.com.pe/bitel/agroSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="AmazonicaTV.pe@SD" tvg-logo="https://i.imgur.com/22ebHAX.jpeg" group-title="Perú" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Amazonica TV (720p)
 https://live-evg8.tv360.bitel.com.pe/bitel/amazonicatvSRT/playlist.m3u8
-#EXTINF:-1 tvg-id="AMERICA.TELEVISION.(America.TV).pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/500px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" group-title="Perú" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",America Television (1080p)
+#EXTINF:-1 tvg-id="Canal.America.TV.(Argentina).ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/500px-Am%C3%A9rica_Televisi%C3%B3n.svg.png" group-title="Perú" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",America Television (1080p)
 http://190.93.224.42/AMERICA-TV/index.m3u8
 #EXTINF:-1 tvg-id="Canal.AXN.(Andes).sv" tvg-logo="https://i.imgur.com/CsW4Op8.png" group-title="Perú" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Andes Television (720p)
 https://live-evg7.tv360.bitel.com.pe/bitel/andestvSRT/playlist.m3u8
@@ -3731,8 +3705,12 @@ http://190.93.224.42/ATV/index.m3u8
 http://190.93.224.42/ATV-SUR/index.m3u8
 #EXTINF:-1 tvg-id="AutenticaTelevision.pe@SD" tvg-logo="https://i.imgur.com/bEJK3RN.png" group-title="Perú" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Autentica Television (720p) [Not 24/7]
 https://live.obslivestream.com/autenticatvmux/index.m3u8
+#EXTINF:-1 tvg-id="BellaAbanquinaTV.pe@SD" tvg-logo="https://i.imgur.com/bORM4rt.png" group-title="Perú" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Bella Abanquina TV (720p)
+https://live-evg8.tv360.bitel.com.pe/bitel/bellaabanquinaSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="BethelTV.pe@SD" tvg-logo="https://i.imgur.com/zCVh765.png" group-title="Perú" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Bethel TV (720p)
 https://alfa.betheltv.tv/srt/3_abr/playlist.m3u8
+#EXTINF:-1 tvg-id="BNBDigital.pe@SD" tvg-logo="https://i.imgur.com/MgEN1F8.png" group-title="Perú" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",BNB Digital (720p)
+https://live-evg8.tv360.bitel.com.pe/bitel/bnbSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="CadenaTV.pe@HD" tvg-logo="https://i.imgur.com/stvzqzd.png" group-title="Perú" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Cadena TV (720p) [Not 24/7]
 https://tv.bitstreaming.net:3789/live/cdntvlive.m3u8
 #EXTINF:-1 tvg-id="Canal21Huancayo.pe@HD" tvg-logo="https://i.imgur.com/Kfdkm06.png" group-title="Perú" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Canal 21 Huancayo (720p)
@@ -3751,6 +3729,8 @@ https://live.obslivestream.com/controversiatv/index.m3u8
 https://live.obslivestream.com/crtvmux/index.m3u8
 #EXTINF:-1 tvg-id="CVNTV.pe@SD" tvg-logo="https://i.imgur.com/QF5VUcy.png" group-title="Perú" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",CVN TV
 https://7.innovatestream.pe:19360/cvntumbes/cvntumbes.m3u8
+#EXTINF:-1 tvg-id="DacTV.pe@SD" tvg-logo="https://i.imgur.com/g4pZ3ZW.jpeg" group-title="Perú" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Dac TV (720p)
+https://live-evg8.tv360.bitel.com.pe/bitel/dactvSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="DeltaTV.pe@SD" tvg-logo="https://i.imgur.com/crttwAR.png" group-title="Perú" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",DeltaTV
 https://tv2.bitstreaming.net:3539/live/deltanetlive.m3u8
 #EXTINF:-1 tvg-id="DobleCTelevision.pe@SD" tvg-logo="https://i.imgur.com/2zCD4TB.png" group-title="Perú" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Doble C Television (720p)
@@ -3759,7 +3739,9 @@ https://live20.bozztv.com/giatv/giatv-doblec1/doblec1/playlist.m3u8
 https://live-evg7.tv360.bitel.com.pe/bitel/sabormixtvSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal.Foro.TV.mx" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTarTiQHz2Pl0Bpx9g7JV_eaz4V4f61wtGyRw&s" group-title="Perú" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Foro TV
 https://mc.servidor.stream:19360/8274/8274.m3u8
-#EXTINF:-1 tvg-id="GLOBAL.(RED.TV).pe" tvg-logo="https://i.imgur.com/yuEou9C.png" group-title="Perú" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Global TV (Peru) (1080p)
+#EXTINF:-1 tvg-id="GeniosTV.pe@SD" tvg-logo="https://i.imgur.com/iH2Lx6E.png" group-title="Perú" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Genios TV (1080p)
+https://sc3.wasidata.com/Genios2_1902/video.m3u8
+#EXTINF:-1 tvg-id="GlobalTV.pe@SD" tvg-logo="https://i.imgur.com/yuEou9C.png" group-title="Perú" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Global TV (Peru) (1080p)
 http://190.93.224.42/GLOBAL/index.m3u8
 #EXTINF:-1 tvg-id="HuachoPeruTV.pe@SD" tvg-logo="https://i.imgur.com/PevmfqK.png" group-title="Perú" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Huacho Peru TV
 https://tv.huachotv.com/stream.m3u8
@@ -3773,7 +3755,7 @@ https://video2.lhdserver.es/cableperu/live.m3u8
 https://lbgo.bozztv.com/ssh101/ssh101/jnetv/playlist.m3u8
 #EXTINF:-1 tvg-id="PODER.JUDICIAL.(JusticiaTV).pe" tvg-logo="https://i.imgur.com/VOjLXJd.png" group-title="Perú" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Justicia TV (Peru) (1080p)
 http://190.93.224.42/JUSTICIA-TV/index.m3u8
-#EXTINF:-1 tvg-id="LA.TELE.PERU.(La.Tele).pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/960px-LaTele_Per%C3%BA_2018_Logo.png" group-title="Perú" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",La Tele (1080p)
+#EXTINF:-1 tvg-id="Canal.La.Tele.(Paraguay).ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/LaTele_Per%C3%BA_2018_Logo.png/960px-LaTele_Per%C3%BA_2018_Logo.png" group-title="Perú" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",La Tele (1080p)
 http://190.93.224.42/LA-TELE/index.m3u8
 #EXTINF:-1 tvg-id="LATINA.(Latina).pe" tvg-logo="https://i.imgur.com/MOsWriY.png" group-title="Perú" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Latina (1080p)
 #EXTVLCOPT:http-referrer=https://www.latele.com.py/en-vivo
@@ -3836,6 +3818,8 @@ https://video2.lhdserver.es/siscomtv/live.m3u8
 https://5790d294af2dc.streamlock.net:443/streamtv/streamtv/playlist.m3u8
 #EXTINF:-1 tvg-id="StudioPascoTV.pe@SD" tvg-logo="https://i.imgur.com/zgyNuVE.jpeg" group-title="Perú" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Studio Pasco TV (720p)
 https://live-evg7.tv360.bitel.com.pe/bitel/studiopasco/playlist.m3u8
+#EXTINF:-1 tvg-id="SuperCanal.pe@SD" tvg-logo="https://i.imgur.com/eotfCMd.png" group-title="Perú" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Super Canal (Peru) (720p)
+https://live-evg7.tv360.bitel.com.pe/bitel/supercanalSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="TelecolorYurimaguas.pe@SD" tvg-logo="https://i.imgur.com/Ug6XNIU.png" group-title="Perú" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Telecolor Yurimaguas (720p) [Not 24/7]
 https://live.obslivestream.com/telecolormux/index.m3u8
 #EXTINF:-1 tvg-id="Teleselva.pe@SD" tvg-logo="https://i.imgur.com/cu7hTn8.png" group-title="Perú" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Teleselva (720p)
@@ -3858,8 +3842,6 @@ http://190.93.224.42/TRIVU-TV/index.m3u8
 https://s2.tvdatta.com:3687/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="CA2900020SZ" tvg-logo="https://i.imgur.com/nr4ctt4.png" group-title="Perú" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",TV Cosmos (720p)
 https://videoserver.tmcreativos.com:19360/tvcosmos/tvcosmos.m3u8
-#EXTINF:-1 tvg-id="TVKaliente.pe@SD" tvg-logo="https://i.imgur.com/MFQpLuQ.png" group-title="Perú" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",TV Kaliente (720p)
-https://lbgo.bozztv.com/ssh101/ssh101/kalientecusco/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal.9.de.Panamá.(TVMax).pa" tvg-logo="https://i.imgur.com/JFBpDJ1.jpeg" group-title="Perú" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",TV MAX (720p)
 https://live-evg8.tv360.bitel.com.pe/bitel/nexSRT_TRA/playlist.m3u8
 #EXTINF:-1 tvg-id="TVNorteChiclayo.pe@SD" tvg-logo="https://i.imgur.com/0fg6m2L.png" group-title="Perú" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",TV Norte Chiclayo (720p)
@@ -3872,6 +3854,8 @@ https://live-evg11.tv360.bitel.com.pe/bitel/tvchincha/playlist.m3u8
 https://live-evg11.tv360.bitel.com.pe/bitel/utv/playlist.m3u8
 #EXTINF:-1 tvg-id="UnicentroTV.pe@SD" tvg-logo="https://i.imgur.com/lhewC3K.png" group-title="Perú" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Unicentro TV (720p)
 https://live-evg11.tv360.bitel.com.pe/bitel/unicentroSRT/playlist.m3u8
+#EXTINF:-1 tvg-id="Unitel.pe@SD" tvg-logo="https://i.imgur.com/F0PWpyc.png" group-title="Perú" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Unitel (Peru) (1080p)
+https://play.agenciastreaming.com:8081/uniteltv/index.m3u8
 #EXTINF:-1 tvg-id="UniversitariaTV.pe@SD" tvg-logo="https://i.imgur.com/OcDimHX.png" group-title="Perú" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Universitaria TV (720p)
 https://live-evg11.tv360.bitel.com.pe/bitel/uraniotv/playlist.m3u8
 #EXTINF:-1 tvg-id="UranioTV.pe@SD" tvg-logo="https://i.imgur.com/EeNpfIr.png" group-title="Perú" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Uranio TV (720p)
@@ -3900,6 +3884,8 @@ https://live-evg7.tv360.bitel.com.pe/bitel/ncanalSRT/playlist.m3u8
 https://live-evg7.tv360.bitel.com.pe/bitel/yurimaguastvSRT/playlist.m3u8
 #EXTINF:-1 tvg-id="Yurivision.pe@SD" tvg-logo="https://i.imgur.com/VhWuaER.jpeg" group-title="Perú" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Yurivision (720p)
 https://live-evg5.tv360.bitel.com.pe/bitel/yurivisionSRT/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeleveTV.pe@SD" tvg-logo="https://i.imgur.com/CGWaunJ.jpeg" group-title="Perú" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Zeleve TV (720p)
+https://live-evg11.tv360.bitel.com.pe/bitel/zeleve/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalALMA.uy@SD" tvg-logo="https://i.imgur.com/rB7iFUF.jpg" group-title="Uruguay" http-referrer="https://canalalma.tv" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Canal ALMA
 https://stmv1.voxtvhd.com.br/canalalmatv/canalalmatv/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalMas.uy@SD" tvg-logo="https://i.imgur.com/gs1L1mW.png" group-title="Uruguay" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Canal Mas (720p)
@@ -3973,10 +3959,10 @@ https://vcp12.myplaytv.com/trt/trt/playlist.m3u8
 https://astl-mainstr.qvixsolutions.com/asltvtu_ext/index.m3u8
 #EXTINF:-1 tvg-id="TVOasisMonay.ve@SD" tvg-logo="https://i.imgur.com/hwd7osJ.jpeg" group-title="Venezuela" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",TV Oasis Monay (1080i)
 https://live.teve.pro/live/tvoasis/index.m3u8
+#EXTINF:-1 tvg-id="TVes.ve@SD" tvg-logo="https://i.imgur.com/QX5DVUB.png" group-title="Venezuela" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",TVes (1080p)
+https://vs20.live.opencaster.com/tves_5fd18b1e/index.m3u8
 #EXTINF:-1 tvg-id="TVMparati.ve@SD" tvg-logo="https://intervenhosting.net/imagenes/tvmparati.jpg" group-title="Venezuela" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",TVM para ti (1080p)
 https://streamtv.intervenhosting.net:3529/live/tvmparatilive.m3u8
-#EXTINF:-1 tvg-id="Canal.AXN.(Venezuela).sv" tvg-logo="https://i.imgur.com/J8ztiAN.png" group-title="Venezuela" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",TVS (Venezuela) (720p)
-https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8
 #EXTINF:-1 tvg-id="UniTV.ve@SD" tvg-logo="https://i.imgur.com/KLGeznX.png" group-title="Venezuela" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",UniTV (720p)
 https://vcp6.myplaytv.com/unitv/unitv/playlist.m3u8
 #EXTINF:-1 tvg-id="ValeTV.ve@SD" tvg-logo="https://i.imgur.com/NMI2Wed.png" group-title="Venezuela" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",Vale TV (480p) [Not 24/7]
